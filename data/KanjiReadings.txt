@@ -1,0 +1,2136 @@
+亜,7,sub,ア
+哀,9,pathetic,アイ; あわ.れ; あわ.れむ
+挨,10,push open,アイ
+愛,13,love,アイ
+曖,17,not clear,アイ
+悪,11,bad,アク; オ; わる.い
+握,12,grip,アク; にぎ.る
+圧,5,pressure,アツ
+扱,6,handle,あつか.う
+宛,8,allocate,あ.てる
+嵐,12,storm,あらし
+安,6,cheap,アン; やす.い
+案,10,plan,アン
+暗,13,dark,アン; くら.い
+以,5,by means of,イ
+衣,6,clothes,イ; ころも
+位,7,rank,イ; くらい
+囲,7,surround,イ; かこ.む; かこ.う
+医,7,medicine,イ
+依,8,reliant,イ; （エ）
+委,8,committee,イ; ゆだ.ねる
+威,9,intimidate,イ
+為,9,do,イ
+畏,9,fear,イ; おそ.れる
+胃,9,stomach,イ
+尉,11,military officer,イ
+異,11,uncommon,イ; こと
+移,11,shift,イ; うつ.る; うつ.す
+萎,11,wither,イ; な.える
+偉,12,admirable,イ; えら.い
+椅,12,chair,イ
+彙,13,same kind,イ
+意,13,idea,イ
+違,13,differ,イ; ちが.う; ちが.える
+維,14,fiber,イ
+慰,15,consolation,イ; なぐさ.める; なぐさ.む
+遺,15,bequeath,イ; （ユイ）
+緯,16,horizontal,イ
+域,11,range,イキ
+育,8,nurture,イク; そだ.つ; そだ.てる; はぐく.む
+一,1,one,イチ; イツ; ひと; ひと.つ
+壱,7,one (Falsification prevention),イチ
+逸,11,deviate,イツ
+茨,9,thorn,（いばら
+芋,6,potato,いも
+引,4,pull,イン; ひ.く; ひ.ける
+印,6,mark,イン; しるし
+因,6,cause,イン; よ.る
+咽,9,throat,イン
+姻,9,matrimony,イン
+員,10,member,イン
+院,10,institution,イン
+淫,11,lewdness,イン; みだ.ら
+陰,11,shade,イン; かげ; かげ.る
+飲,12,drink,イン; の.む
+隠,14,conceal,イン; かく.す; かく.れる
+韻,19,rhyme,イン
+右,5,right (direction),ウ; ユウ; みぎ
+宇,6,eaves,ウ
+羽,6,feather,ウ; は; はね
+雨,8,rain,ウ; あめ; （あま）
+唄,10,songs with samisen,（うた）
+鬱,29,gloom,ウツ
+畝,10,furrow,うね
+浦,10,bay,うら
+運,12,carry,ウン; はこ.ぶ
+雲,12,cloud,ウン; くも
+永,5,eternity,エイ; なが.い
+泳,8,swim,エイ; およ.ぐ
+英,8,England,エイ
+映,9,reflect,エイ; うつ.る; うつ.す; は.える
+栄,9,prosperity,エイ; さか.える; は.え; は.える
+営,12,manage,エイ; いとな.む
+詠,12,recitation,エイ; よ.む
+影,15,shadow,エイ; かげ
+鋭,15,pointed,エイ; するど.い
+衛,16,defense,エイ
+易,8,easy,エキ; イ; やさ.しい
+疫,9,epidemic,エキ; （ヤク）
+益,10,benefit,エキ; （ヤク）
+液,11,fluid,エキ
+駅,14,station,エキ
+悦,10,ecstasy,エツ
+越,12,cross over,エツ; こ.す; こ.える
+謁,15,audience,エツ
+閲,15,review,エツ
+円,4,round yen,エン; まる.い
+延,8,prolong,エン; の.びる; の.べる; の.ばす
+沿,8,run alongside,エン; そ.う
+炎,8,inflammation,エン; ほのお
+怨,9,grudge,エン; オン
+宴,10,banquet,エン
+媛,12,princess,エン
+援,12,aid,エン
+園,13,garden,エン; その
+煙,13,smoke,エン; けむ.る; けむり; けむ.い
+猿,13,monkey,エン; さる
+遠,13,far,エン; （オン）; とお.い
+鉛,13,lead,エン; なまり
+塩,13,salt,エン; しお
+演,14,perform,エン
+縁,15,affinity,エン; ふち
+艶,19,glossy,エン; つや
+汚,6,dirty,オ; けが.す; けが.れる; けが.らわしい; よご.す; よご.れる; きたな.い
+王,4,king,オウ
+凹,5,concave,オウ
+央,5,center,オウ
+応,7,respond,オウ; こた.える
+往,8,outward journey,オウ
+押,8,push,オウ; お.す; お.さえる
+旺,8,flourishing,オウ
+欧,8,Europe,オウ
+殴,8,assault,オウ; なぐ.る
+桜,10,cherry tree,オウ; さくら
+翁,10,venerable old man,オウ
+奥,12,heart,オウ; おく
+横,15,side,オウ; よこ
+岡,8,hill,（おか）
+屋,9,roof,オク; や
+億,15,hundred million,オク
+憶,16,recollection,オク
+臆,17,timidity,オク
+虞,13,uneasiness,おそれ
+乙,1,the latter,オツ
+俺,10,I/we,おれ
+卸,9,wholesale,おろ.す; おろし
+音,9,sound,オン; イン; おと; ね
+恩,10,grace,オン
+温,12,warm,オン; あたた.か; あたた.かい; あたた.まる; あたた.める
+穏,16,calm,オン; おだ.やか
+下,3,below,カ; ゲ; した; しも; もと; さ.げる; さ.がる; くだ.る; くだ.す; くだ.さる; お.ろす; お.りる
+化,4,change,カ; ケ; ば.ける; ば.かす
+火,4,fire,カ; ひ; （ほ）
+加,5,add,カ; くわ.える; くわ.わる
+可,5,possible,カ
+仮,6,temporary,カ; （ケ）; かり
+何,7,what,カ; なに; （なん）
+花,7,flower,カ; はな
+佳,8,excellent,カ
+価,8,value,カ; あたい
+果,8,fruit,カ; は.たす; は.てる; は.て
+河,8,river,カ; かわ
+苛,8,torment,カ
+科,9,section,カ
+架,9,rack,カ; か.ける; か.かる
+夏,10,summer,カ; （ゲ）; なつ
+家,10,house,カ; ケ; いえ; や
+荷,10,luggage,カ; に
+華,10,splendor,カ; （ケ）; はな
+菓,11,confectionery,カ
+貨,11,freight,カ
+渦,12,whirlpool,カ; うず
+過,12,go beyond,カ; す.ぎる; す.ごす; あやま.つ; あやま.ち
+嫁,13,marry into,カ; よめ; とつ.ぐ
+暇,13,spare time,カ; ひま
+禍,13,calamity,カ
+靴,13,shoes,カ; くつ
+寡,14,widow,カ
+歌,14,song,カ; うた; うた.う
+箇,14,counters for things,カ
+稼,15,earnings,カ; かせ.ぐ
+課,15,section,カ
+蚊,10,mosquito,か
+牙,4,tusk,ガ; （ゲ）; きば
+瓦,5,tile,ガ; かわら
+我,7,ego,ガ; われ; わ
+画,8,tableau,ガ; カク
+芽,8,bud,ガ; め
+賀,12,congratulations,ガ
+雅,13,gracious,ガ
+餓,15,starve,ガ
+介,4,jammed in,カイ
+回,6,times,カイ; （エ）; まわ.る; まわ.す
+灰,6,ashes,カイ; はい
+会,6,association,カイ; エ; あ.う
+快,7,cheerful,カイ; こころよ.い
+戒,7,commandment,カイ; いまし.める
+改,7,reformation,カイ; あらた.める; あらた.まる
+怪,8,suspicious,カイ; あや.しい; あや.しむ
+拐,8,kidnap,カイ
+悔,9,repent,カイ; く.いる; く.やむ; くや.しい
+海,9,sea,カイ; うみ
+界,9,world,カイ
+皆,9,all,カイ; みな
+械,11,contraption,カイ
+絵,12,picture,カイ; エ
+開,12,open,カイ; ひら.く; ひら.ける; あ.く; あ.ける
+階,12,floor of a building,カイ
+塊,13,clod,カイ; かたまり
+楷,13,square character style,カイ
+解,13,untie,カイ; ゲ; と.く; と.かす; と.ける
+潰,15,crush,カイ; つぶ.す; つぶ.れる
+壊,16,demolition,カイ; こわ.す; こわ.れる
+懐,16,pocket,カイ; ふところ; なつ.かしい; なつ.かしむ; なつ.く; なつ.ける
+諧,16,harmony,カイ
+貝,7,shellfish,かい
+外,5,outside,ガイ; ゲ; そと; ほか; はず.す; はず.れる
+劾,8,censure,ガイ
+害,10,harm,ガイ
+崖,11,cliff,ガイ; がけ
+涯,11,horizon,ガイ
+街,12,street,ガイ; （カイ）; まち
+慨,13,rue,ガイ
+蓋,13,cover,ガイ; ふた
+該,13,above.stated,ガイ
+概,14,outline,ガイ
+骸,16,dead/remains,ガイ
+垣,9,hedge,かき
+柿,9,persimmon,かき
+各,6,each,カク; おのおの
+角,7,angle,カク; かど; つの
+拡,8,broaden,カク
+革,9,leather,カク; かわ
+格,10,status,カク; （コウ）
+核,10,nucleus,カク
+殻,11,husk,カク; から
+郭,11,enclosure,カク
+覚,12,memorize,カク; おぼ.える; さ.ます; さ.める
+較,13,contrast,カク
+隔,13,isolate,カク; へだ.てる; へだ.たる
+閣,14,tall,カク
+確,15,certain,カク; たし.か; たし.かめる
+獲,16,seize,カク; え.る
+嚇,17,menacing,カク
+穫,18,harvest,カク
+学,8,study,ガク; まな.ぶ
+岳,8,point,ガク; たけ
+楽,13,pleasure,ガク; ラク; たの.しい; たの.しむ
+額,18,amount,ガク; ひたい
+顎,18,jaw,ガク; あご
+掛,11,hang,か.ける; か.かる; かかり
+潟,15,lagoon,かた
+括,9,fasten,カツ
+活,9,active,カツ
+喝,11,hoarse,カツ
+渇,11,thirst,カツ; かわ.く
+割,12,divide,カツ; わ.る; わり; わ.れる; さ.く
+葛,12,arrowroot,カツ; くず
+滑,13,slippery,カツ; コツ; すべ.る; なめ.らか
+褐,13,brown,カツ
+轄,17,control,カツ
+且,5,moreover,か.つ
+株,10,stocks,かぶ
+釜,10,kettle,かま
+鎌,18,sickle,かま
+刈,4,reap,か.る
+干,3,dry,カン; ほ.す; ひ.る
+刊,5,publish,カン
+甘,5,sweet,カン; あま.い; あま.える; あま.やかす
+汗,6,sweat,カン; あせ
+缶,6,tin can,カン
+完,7,perfect,カン
+肝,7,liver,カン; きも
+官,8,government official,カン
+冠,9,crown,カン; かんむり
+巻,9,scroll,カン; ま.く; まき
+看,9,watch over,カン
+陥,10,collapse,カン; おちい.る; おとしい.れる
+乾,11,dry,カン; かわ.く; かわ.かす
+勘,11,intuition,カン
+患,11,afflicted,カン; わずら.う
+貫,11,pierce,カン; つらぬ.く
+寒,12,cold,カン; さむ.い
+喚,12,yell,カン
+堪,12,withstand,カン; た.える
+換,12,interchange,カン; か.える; か.わる
+敢,12,daring,カン
+棺,12,coffin,カン
+款,12,goodwill,カン
+間,12,interval,カン; ケン; あいだ; ま
+閑,12,leisure,カン
+勧,13,persuade,カン; すす.める
+寛,13,tolerant,カン
+幹,13,tree.trunk,カン; みき
+感,13,feeling,カン
+漢,13,China,カン
+慣,14,accustomed,カン; な.れる; な.らす
+管,14,pipe,カン; くだ
+関,14,related,カン; せき; かか.わる
+歓,15,delight,カン
+監,15,oversee,カン
+緩,15,slacken,カン; ゆる.い; ゆる.やか; ゆる.む; ゆる.める
+憾,16,remorse,カン
+還,16,send back,カン
+館,16,public building,カン; やかた
+環,17,ring,カン
+簡,18,simplicity,カン
+観,18,observe,カン
+韓,18,Korea,カン
+艦,21,warship,カン
+鑑,23,specimen,カン; かんが.みる
+丸,3,circle,ガン; まる; まる.い; まる.める
+含,7,include,ガン; ふく.む; ふく.める
+岸,8,beach,ガン; きし
+岩,8,boulder,ガン; いわ
+玩,8,trifle with,ガン
+眼,11,eyeball,ガン; （ゲン）; まなこ
+頑,13,stubborn,ガン
+顔,18,face,ガン; かお
+願,19,request,ガン; ねが.う
+企,6,plan,キ; くわだ.てる
+伎,6,deed,キ
+危,6,dangerous,キ; あぶ.ない; あや.うい; あや.ぶむ
+机,6,desk,キ; つくえ
+気,6,feeling,キ; ケ
+岐,7,branch off,キ
+希,7,hope,キ
+忌,7,mourning,キ; い.む; い.まわしい
+汽,7,steam,キ
+奇,8,strange,キ
+祈,8,pray,キ; いの.る
+季,8,seasons,キ
+紀,9,chronicle,キ
+軌,9,rut,キ
+既,10,previously,キ; すで.に
+記,10,write down,キ; しる.す
+起,10,wake up,キ; お.きる; お.こる; お.こす
+飢,10,hungry,キ; う.える
+鬼,10,ghost,キ; おに
+帰,10,return,キ; かえ.る; かえ.す
+基,11,foundation,キ; もと; もとい
+寄,11,approach,キ; よ.る; よ.せる
+規,11,rule,キ
+亀,11,turtle,キ; かめ
+喜,12,rejoice,キ; よろこ.ぶ
+幾,12,how many,キ; いく
+揮,12,brandish,キ
+期,12,period of time,キ; （ゴ）
+棋,12,chess piece,キ
+貴,12,precious,キ; たっと.い; とうと.い; たっと.ぶ; とうと.ぶ
+棄,13,abandon,キ
+毀,13,destroy,キ
+旗,14,national flag,キ; はた
+器,15,container,キ; うつわ
+畿,15,capital,キ
+輝,15,radiance,キ; かがや.く
+機,16,machine,キ; はた
+騎,18,equestrian,キ
+技,7,skill,ギ; わざ
+宜,8,best regards,ギ
+偽,11,falsehood,ギ; いつわ.る; にせ
+欺,12,deceit,ギ; あざむ.く
+義,13,righteousness,ギ
+疑,14,doubt,ギ; うたが.う
+儀,15,ceremony,ギ
+戯,15,frolic,ギ; たわむ.れる
+擬,17,mimic,ギ
+犠,17,sacrifice,ギ
+議,20,deliberation,ギ
+菊,11,chrysanthemum,キク
+吉,6,good luck,キチ; キツ
+喫,12,consume,キツ
+詰,13,packed,キツ; つ.める; つ.まる; つ.む
+却,7,instead,キャク
+客,9,guest,キャク; カク
+脚,11,leg,キャク; （キャ）; あし
+逆,9,inverted,ギャク; さか; さか.らう
+虐,9,tyrannize,ギャク; しいた.げる
+九,2,nine,キュウ; ク; ここの; ここの.つ
+久,3,long time,キュウ; （ク）; ひさ.しい
+及,3,reach out,キュウ; およ.ぶ; およ.び; およ.ぼす
+弓,3,bow (archery/violin),キュウ; ゆみ
+丘,5,hill,キュウ; おか
+旧,5,old times,キュウ
+休,6,rest,キュウ; やす.む; やす.まる; やす.める
+吸,6,suck,キュウ; す.う
+朽,6,decay,キュウ; く.ちる
+臼,6,mortar,キュウ; うす
+求,7,request,キュウ; もと.める
+究,7,research,キュウ; きわ.める
+泣,8,cry,キュウ; な.く
+急,9,hurry,キュウ; いそ.ぐ
+級,9,rank,キュウ
+糾,9,twist,キュウ
+宮,10,Shinto shrine,キュウ; グウ; （ク）; みや
+救,11,salvation,キュウ; すく.う
+球,11,sphere,キュウ; たま
+給,12,salary,キュウ
+嗅,13,smell,キュウ; か.ぐ
+窮,15,hard up,キュウ; きわ.める; きわ.まる
+牛,4,cow,ギュウ; うし
+去,5,leave,キョ; コ; さ.る
+巨,5,gigantic,キョ
+居,8,reside,キョ; い.る
+拒,8,repel,キョ; こば.む
+拠,8,foothold,キョ; コ
+挙,10,raise,キョ; あ.げる; あ.がる
+虚,11,void,キョ; （コ）
+許,11,permit,キョ; ゆる.す
+距,12,long.distance,キョ
+魚,11,fish,ギョ; うお; さかな
+御,12,honorable,ギョ; ゴ; おん
+漁,14,fishing,ギョ; リョウ
+凶,4,villain,キョウ
+共,6,together,キョウ; とも
+叫,6,shout,キョウ; さけ.ぶ
+狂,7,lunatic,キョウ; くる.う; くる.おしい
+京,8,capital,キョウ; ケイ
+享,8,receive,キョウ
+供,8,offer,キョウ; （ク）; そな.える; とも
+協,8,cooperation,キョウ
+況,8,condition,キョウ
+峡,9,gorge,キョウ
+挟,9,pinch,キョウ; はさ.む; はさ.まる
+狭,9,cramped,キョウ; せま.い; せば.める; せば.まる
+恐,10,fear,キョウ; おそ.れる; おそ.ろしい
+恭,10,respect,キョウ; うやうや.しい
+胸,10,bosom,キョウ; むね; （むな）
+脅,10,threaten,キョウ; おびや.かす; おど.す; おど.かす
+強,11,strong,キョウ; ゴウ; つよ.い; つよ.まる; つよ.める; し.いる
+教,11,teach,キョウ; おし.える; おそ.わる
+郷,11,home town,キョウ; ゴウ
+境,14,boundary,キョウ; （ケイ）; さかい
+橋,16,bridge,キョウ; はし
+矯,17,rectify,キョウ; た.める
+鏡,19,mirror,キョウ; かがみ
+競,20,compete,キョウ; ケイ; きそ.う; せ.る
+響,20,echo,キョウ; ひび.く
+驚,22,wonder,キョウ; おどろ.く; おどろ.かす
+仰,6,face.up,ギョウ; （コウ）; あお.ぐ; おお.せ
+暁,12,daybreak,ギョウ; あかつき
+業,13,business,ギョウ; ゴウ; わざ
+凝,16,congeal,ギョウ; こ.る; こ.らす
+曲,6,musical composition,キョク; ま.がる; ま.げる
+局,7,office,キョク
+極,12,poles,キョク; ゴク; きわ.める; きわ.まる; きわ.み
+玉,5,ball,ギョク; たま
+巾,3,towel,キン
+斤,4,axe,キン
+均,7,level,キン
+近,7,near,キン; ちか.い
+金,8,gold,キン; コン; かね; （かな）
+菌,11,germ,キン
+勤,12,diligence,キン; （ゴン）; つと.める; つと.まる
+琴,12,harp,キン; こと
+筋,12,muscle,キン; すじ
+僅,13,a wee bit,キン; わず.か
+禁,13,prohibition,キン
+緊,15,tense,キン
+錦,16,brocade,キン; にしき
+謹,17,discreet,キン; つつし.む
+襟,18,collar,キン; えり
+吟,7,versify,ギン
+銀,14,silver,ギン
+区,4,ward,ク
+句,5,phrase,ク
+苦,8,suffer,ク; くる.しい; くる.しむ; くる.しめる; にが.い; にが.る
+駆,14,drive,ク; か.ける; か.る
+具,8,tool,グ
+惧,11,dread,グ
+愚,13,foolish,グ; おろ.か
+空,8,sky,クウ; そら; あ.く; あ.ける; から
+偶,11,accidentally,グウ
+遇,12,interview,グウ
+隅,12,corner,グウ; すみ
+串,7,skewer,くし
+屈,8,yield,クツ
+掘,11,dig,クツ; ほ.る
+窟,13,cavern,クツ
+熊,14,bear,くま
+繰,19,winding,く.る
+君,7,you,クン; きみ
+訓,10,instruction,クン
+勲,15,meritorious deed,クン
+薫,16,fragrant,クン; かお.る
+軍,9,army,グン
+郡,10,county,グン
+群,13,flock,グン; む.れる; む.れ; （むら）
+兄,5,older brother,ケイ; （キョウ）; あに
+刑,6,punish,ケイ
+形,7,shape,ケイ; ギョウ; かた; かたち
+系,7,lineage,ケイ
+径,8,diameter,ケイ
+茎,8,stalk,ケイ; くき
+係,9,person in charge,ケイ; かか.る; かかり
+型,9,model,ケイ; かた
+契,9,pledge,ケイ; ちぎ.る
+計,9,measure,ケイ; はか.る; はか.らう
+恵,10,favor,ケイ; エ; めぐ.む
+啓,11,disclose,ケイ
+掲,11,put up (a notice),ケイ; かか.げる
+渓,11,mountain stream,ケイ
+経,11,manage,ケイ; キョウ; へ.る
+蛍,11,lightning.bug,ケイ; ほたる
+敬,12,respect,ケイ; うやま.う
+景,12,scenery,ケイ
+軽,12,light,ケイ; かる.い; かろ.やか
+傾,13,lean,ケイ; かたむ.く; かたむ.ける
+携,13,portable,ケイ; たずさ.える; たずさ.わる
+継,13,inherit,ケイ; つ.ぐ
+詣,13,visit a temple,ケイ; もう.でる
+慶,15,jubilation,ケイ
+憬,15,long for,ケイ
+稽,15,consider,ケイ
+憩,16,recess,ケイ; いこ.い; いこ.う
+警,19,guard against,ケイ
+鶏,19,chicken,ケイ; にわとり
+芸,7,art,ゲイ
+迎,7,welcome,ゲイ; むか.える
+鯨,19,whale,ゲイ; くじら
+隙,13,fissure,ゲキ; すき
+劇,15,drama,ゲキ
+撃,15,beat,ゲキ; う.つ
+激,16,violent,ゲキ; はげ.しい
+桁,10,beam,けた
+欠,4,lack,ケツ; か.ける; か.く
+穴,5,hole,ケツ; あな
+血,6,blood,ケツ; ち
+決,7,decide,ケツ; き.める; き.まる
+結,12,tie,ケツ; むす.ぶ; ゆ.う; ゆ.わえる
+傑,13,greatness,ケツ
+潔,15,undefiled,ケツ; いさぎよ.い
+月,4,month/moon,ゲツ; ガツ; つき
+犬,4,dog,ケン; いぬ
+件,6,affair,ケン
+見,7,see,ケン; み.る; み.える; み.せる
+券,8,ticket,ケン
+肩,8,shoulder,ケン; かた
+建,9,build,ケン; （コン）; た.てる; た.つ
+研,9,sharpen,ケン; と.ぐ
+県,9,prefecture,ケン
+倹,10,frugal,ケン
+兼,10,concurrently,ケン; か.ねる
+剣,10,sabre,ケン; つるぎ
+拳,10,fist,ケン; こぶし
+軒,10,flats,ケン; のき
+健,11,healthy,ケン; すこ.やか
+険,11,precipitous,ケン; けわ.しい
+圏,12,sphere,ケン
+堅,12,strict,ケン; かた.い
+検,12,examine,ケン
+嫌,13,dislike,ケン; （ゲン）; きら.う; いや
+献,13,offering,ケン; （コン）
+絹,13,silk,ケン; きぬ
+遣,13,dispatch,ケン; つか.う; つか.わす
+権,15,rights,ケン; （ゴン）
+憲,16,constitution,ケン
+賢,16,intelligent,ケン; かしこ.い
+謙,17,self.effacing,ケン
+鍵,17,key,ケン; かぎ
+繭,18,cocoon,ケン; まゆ
+顕,18,appear,ケン
+験,18,test,ケン; （ゲン）
+懸,20,suspend,ケン; （ケ）; か.ける; か.かる
+元,4,origin,ゲン; ガン; もと
+幻,4,phantasm,ゲン; まぼろし
+玄,5,mysterious,ゲン
+言,7,say,ゲン; ゴン; い.う; こと
+弦,8,bowstring,ゲン; つる
+限,9,limit,ゲン; かぎ.る
+原,10,field,ゲン; はら
+現,11,appear,ゲン; あらわ.れる; あらわ.す
+舷,11,gunwale,ゲン
+減,12,decrease,ゲン; へ.る; へ.らす
+源,13,origin,ゲン; みなもと
+厳,17,strict,ゲン; （ゴン）; おごそ.か; きび.しい
+己,3,self,コ; キ; おのれ
+戸,4,door,コ; と
+古,5,old,コ; ふる.い; ふる.す
+呼,8,call,コ; よ.ぶ
+固,8,hard,コ; かた.める; かた.まる; かた.い
+股,8,crotch,コ; また
+虎,8,tiger,コ; とら
+孤,9,orphan,コ
+弧,9,arc,コ
+故,9,circumstances,コ; ゆえ
+枯,9,wither,コ; か.れる; か.らす
+個,10,individual,コ
+庫,10,warehouse,コ; （ク）
+湖,12,lake,コ; みずうみ
+雇,12,employ,コ; やと.う
+誇,13,boast,コ; ほこ.る
+鼓,13,drum,コ; つづみ
+錮,16,tie up,コ
+顧,21,look back,コ; かえり.みる
+五,4,five,ゴ; いつ; いつ.つ
+互,4,mutually,ゴ; たが.い
+午,4,noon,ゴ
+呉,7,give,ゴ
+後,9,behind,ゴ; コウ; のち; うし.ろ; あと; おく.れる
+娯,10,recreation,ゴ
+悟,10,enlightenment,ゴ; さと.る
+碁,13,Go,ゴ
+語,14,language,ゴ; かた.る; かた.らう
+誤,14,mistake,ゴ; あやま.る
+護,20,safeguard,ゴ
+口,3,mouth,コウ; ク; くち
+工,3,craft,コウ; ク
+公,4,public,コウ; おおやけ
+勾,4,capture,コウ
+孔,4,cavity,コウ
+功,5,achievement,コウ; （ク）
+巧,5,adroit,コウ; たく.み
+広,5,wide,コウ; ひろ.い; ひろ.まる; ひろ.める; ひろ.がる; ひろ.げる
+甲,5,armor,コウ; カン
+交,6,mix,コウ; まじ.わる; まじ.える; ま.じる; ま.ざる; ま.ぜる; か.う; か.わす
+光,6,ray,コウ; ひか.る; ひかり
+向,6,over there,コウ; む.く; む.ける; む.かう; む.こう
+后,6,empress,コウ
+好,6,like,コウ; この.む; す.く
+江,6,inlet,コウ; え
+考,6,think,コウ; かんが.える
+行,6,go,コウ; ギョウ; （アン）; い.く; ゆ.く; おこな.う
+坑,7,pit,コウ
+孝,7,filial piety,コウ
+抗,7,confront,コウ
+攻,7,aggression,コウ; せ.める
+更,7,grow late,コウ; さら; ふ.ける; ふ.かす
+効,8,effect,コウ; き.く
+幸,8,happiness,コウ; さいわ.い; さち; しあわ.せ
+拘,8,arrest,コウ
+肯,8,agreement,コウ
+侯,9,marquis,コウ
+厚,9,thick,コウ; あつ.い
+恒,9,constancy,コウ
+洪,9,deluge,コウ
+皇,9,emperor,コウ; オウ
+紅,9,deep red,コウ; （ク）; べに; くれない
+荒,9,laid waste,コウ; あら.い; あ.れる; あ.らす
+郊,9,outskirts,コウ
+香,9,incense,コウ; （キョウ）; か; かお.り; かお.る
+候,10,climate,コウ; そうろう
+校,10,school,コウ
+耕,10,till,コウ; たがや.す
+航,10,cruise,コウ
+貢,10,tribute,コウ; （ク）; みつ.ぐ
+降,10,descend,コウ; お.りる; お.ろす; ふ.る
+高,10,tall/expensive,コウ; たか.い; たか; たか.まる; たか.める
+康,11,health,コウ
+控,11,withdraw,コウ; ひか.える
+梗,11,close up,コウ
+黄,11,yellow,コウ; オウ; き; （こ）
+喉,12,throat,コウ; のど
+慌,12,disconcerted,コウ; あわ.てる; あわ.ただしい
+港,12,harbor,コウ; みなと
+硬,12,stiff,コウ; かた.い
+絞,12,strangle,コウ; しぼ.る; し.める; し.まる
+項,12,paragraph,コウ
+溝,13,gutter,コウ; みぞ
+鉱,13,mineral,コウ
+構,14,construct,コウ; かま.える; かま.う
+綱,14,hawser,コウ; つな
+酵,14,fermentation,コウ
+稿,15,draft,コウ
+興,16,entertain,コウ; キョウ; おこ.る; おこ.す
+衡,16,equilibrium,コウ
+鋼,16,steel,コウ; はがね
+講,17,lecture,コウ
+購,17,subscription,コウ
+乞,3,beg,こ.う
+号,5,number,ゴウ
+合,6,fit,ゴウ; ガッ; （カッ）; あ.う; あ.わす; あ.わせる
+拷,9,torture,ゴウ
+剛,10,sturdy,ゴウ
+傲,13,be proud,ゴウ
+豪,14,overpowering,ゴウ
+克,7,overcome,コク
+告,7,tell,コク; つ.げる
+谷,7,valley,コク; たに
+刻,8,engrave,コク; きざ.む
+国,8,country,コク; くに
+黒,11,black,コク; くろ; くろ.い
+穀,14,cereals,コク
+酷,14,cruel,コク
+獄,14,prison,ゴク
+骨,10,bone,コツ; ほね
+駒,15,horse,こま
+込,5,crowded,こ.む; こ.める
+頃,11,times,ころ
+今,4,now,コン; キン; いま
+困,7,become distressed,コン; こま.る
+昆,8,descendants,コン
+恨,9,rancor,コン; うら.む; うら.めしい
+根,10,root,コン; ね
+婚,11,marriage,コン
+混,11,mix,コン; ま.じる; ま.ざる; ま.ぜる; こ.む
+痕,11,mark,コン; あと
+紺,11,dark blue,コン
+魂,14,soul,コン; たましい
+墾,16,ground.breaking,コン
+懇,17,sociable,コン; ねんご.ろ
+左,5,left (direction),サ; ひだり
+佐,7,help,サ
+沙,7,sand,サ
+査,9,investigate,サ
+砂,9,sand,サ; シャ; すな
+唆,10,tempt,サ; そそのか.す
+差,10,distinction,サ; さ.す
+詐,12,lie,サ
+鎖,18,chain,サ; くさり
+座,10,sit,ザ; すわ.る
+挫,10,sprain,ザ
+才,3,genius,サイ
+再,6,again,サイ; （サ）; ふたた.び
+災,7,disaster,サイ; わざわ.い
+妻,8,wife,サイ; つま
+采,8,form,サイ
+砕,9,smash,サイ; くだ.く; くだ.ける
+宰,10,superintend,サイ
+栽,10,plantation,サイ
+彩,11,coloring,サイ; いろど.る
+採,11,pick,サイ; と.る
+済,11,settle,サイ; す.む; す.ます
+祭,11,festival,サイ; まつ.る; まつ.り
+斎,11,purification,サイ
+細,11,thin,サイ; ほそ.い; ほそ.る; こま.か; こま.かい
+菜,11,vegetable,サイ; な
+最,12,most,サイ; もっと.も
+裁,12,judge,サイ; た.つ; さば.く
+債,13,bond,サイ
+催,13,sponsor,サイ; もよお.す
+塞,13,obstruct,サイ; ソク; ふさ.ぐ; ふさ.がる
+歳,13,year.end,サイ; （セイ）
+載,13,ride,サイ; の.せる; の.る
+際,14,occasion,サイ; きわ
+埼,11,cape (geography),（さい）
+在,6,exist,ザイ; あ.る
+材,7,lumber,ザイ
+剤,10,dose,ザイ
+財,10,wealth,ザイ; （サイ）
+罪,13,guilt,ザイ; つみ
+崎,11,promontory,さき
+作,7,make,サク; サ; つく.る
+削,9,plane,サク; けず.る
+昨,9,previous,サク
+柵,9,fence,サク
+索,10,cord,サク
+策,12,scheme,サク
+酢,12,vinegar,サク; す
+搾,13,squeeze,サク; しぼ.る
+錯,16,confused,サク
+咲,9,blossom,さ.く
+冊,5,counter for books,サツ; サク
+札,5,tag,サツ; ふだ
+刷,8,printing,サツ; す.る
+刹,8,temple,サツ; セツ
+拶,9,be imminent,サツ
+殺,10,kill,サツ; （サイ）; （セツ）; ころ.す
+察,14,guess,サツ
+撮,15,snapshot,サツ; と.る
+擦,17,grate,サツ; す.る; す.れる
+雑,14,miscellaneous,ザツ; ゾウ
+皿,5,dish,さら
+三,3,three,サン; み; み.つ; みっ.つ
+山,3,mountain,サン; やま
+参,8,participate,サン; まい.る
+桟,10,scaffold,サン
+蚕,10,silkworm,サン; かいこ
+惨,11,wretched,サン; ザン; みじ.め
+産,11,give birth,サン; う.む; う.まれる; うぶ
+傘,12,umbrella,サン; かさ
+散,12,scatter,サン; ち.る; ち.らす; ち.らかす; ち.らかる
+算,14,calculate,サン
+酸,14,acid,サン; す.い
+賛,15,approve,サン
+残,10,remainder,ザン; のこ.る; のこ.す
+斬,11,kill by slicing,ザン; き.る
+暫,15,temporarily,ザン
+士,3,gentleman,シ
+子,3,child,シ; ス; こ
+支,4,branch,シ; ささ.える
+止,4,stop,シ; と.まる; と.める
+氏,4,family name,シ; うじ
+仕,5,do,シ; （ジ）; つか.える
+史,5,history,シ
+司,5,director,シ
+四,5,four,シ; よ; よ.つ; よっ.つ; よん
+市,5,market,シ; いち
+矢,5,arrow,シ; や
+旨,6,delicious,シ; むね
+死,6,death,シ; し.ぬ
+糸,6,thread,シ; いと
+至,6,climax,シ; いた.る
+伺,7,pay respects,シ; うかが.う
+志,7,intention,シ; こころざ.す; こころざし
+私,7,me,シ; わたくし; わたし
+使,8,use,シ; つか.う
+刺,8,thorn,シ; さ.す; さ.さる
+始,8,begin,シ; はじ.める; はじ.まる
+姉,8,older sister,シ; あね
+枝,8,branch,シ; えだ
+祉,8,welfare,シ
+肢,8,limb,シ
+姿,9,figure,シ; すがた
+思,9,think,シ; おも.う
+指,9,finger,シ; ゆび; さ.す
+施,9,carry out,シ; セ; ほどこ.す
+師,10,expert,シ
+恣,10,selfish,シ
+紙,10,paper,シ; かみ
+脂,10,fat,シ; あぶら
+視,11,look at,シ
+紫,12,purple,シ; むらさき
+詞,12,poetry,シ
+歯,12,tooth,シ; は
+嗣,13,heir,シ
+試,13,test,シ; こころ.みる; ため.す
+詩,13,poem,シ
+資,13,resources,シ
+飼,13,domesticate,シ; か.う
+誌,14,document,シ
+雌,14,feminine,シ; め; めす
+摯,15,seriousness,シ
+賜,15,grant,シ; たまわ.る
+諮,16,consult with,シ; はか.る
+示,5,indicate,ジ; シ; しめ.す
+字,6,letter,ジ; あざ
+寺,6,Buddhist temple,ジ; てら
+次,6,next,ジ; シ; つ.ぐ; つぎ
+耳,6,ear,ジ; みみ
+自,6,oneself,ジ; シ; みずか.ら
+似,7,becoming,ジ; に.る
+児,7,child,ジ; （ニ）
+事,8,abstract thing,ジ; （ズ）; こと
+侍,8,waiter,ジ; さむらい
+治,8,govern,ジ; チ; おさ.める; おさ.まる; なお.る; なお.す
+持,9,hold,ジ; も.つ
+時,10,time,ジ; とき
+滋,12,nourishing,ジ
+慈,13,mercy,ジ; いつく.しむ
+辞,13,resign,ジ; や.める
+磁,14,magnet,ジ
+餌,15,bait,ジ; えさ; え
+璽,19,emperor\'s seal,ジ
+鹿,11,deer,しか; （か）; ロク
+式,6,style,シキ
+識,19,discriminating,シキ
+軸,12,axis,ジク
+七,2,seven,シチ; なな; なな.つ; （なの）
+𠮟,5,scold,シツ; しか.る
+失,5,lose,シツ; うしな.う
+室,9,room,シツ; むろ
+疾,10,rapidly,シツ
+執,11,tenacious,シツ; シュウ; と.る
+湿,12,damp,シツ; しめ.る; しめ.す
+嫉,13,envy,シツ
+漆,14,lacquer,シツ; うるし
+質,15,quality,シツ; シチ; （チ）
+実,8,truth,ジツ; み; みの.る
+芝,6,turf,しば
+写,5,copy,シャ; うつ.す; うつ.る
+社,7,company,シャ; やしろ
+車,7,car,シャ; くるま
+舎,8,cottage,シャ
+者,8,someone,シャ; もの
+射,10,shoot,シャ; い.る
+捨,11,throw away,シャ; す.てる
+赦,11,pardon,シャ
+斜,11,diagonal,シャ; なな.め
+煮,12,boil,シャ; に.る; に.える; に.やす
+遮,14,intercept,シャ; さえぎ.る
+謝,17,apologize,シャ; あやま.る
+邪,8,wicked,ジャ
+蛇,11,snake,ジャ; ダ; へび
+尺,4,shaku,シャク
+借,10,borrow,シャク; か.りる
+酌,10,bartending,シャク; く.む
+釈,11,explanation,シャク
+爵,17,baron,シャク
+若,8,young,ジャク; （ニャク）; わか.い; も.しくは
+弱,10,weak,ジャク; よわ.い; よわ.る; よわ.まる; よわ.める
+寂,11,loneliness,ジャク; （セキ）; さび; さび.しい; さび.れる
+手,4,hand,シュ; て; （た）
+主,5,master,シュ; （ス）; ぬし; おも
+守,6,protect,シュ; （ス）; まも.る; も.り
+朱,6,vermilion,シュ
+取,8,take,シュ; と.る
+狩,9,hunt,シュ; か.る; か.り
+首,9,neck,シュ; くび
+殊,10,particularly,シュ; こと
+珠,10,pearl,シュ
+酒,10,alcoholic drink,シュ; さけ; （さか）
+腫,13,tumor,シュ; は.れる; は.らす
+種,14,kind,シュ; たね
+趣,15,gist,シュ; おもむき
+寿,7,longevity,ジュ; ことぶき
+受,8,accept,ジュ; う.ける; う.かる
+呪,8,curse,ジュ; のろ.う
+授,11,instruct,ジュ; さず.ける; さず.かる
+需,14,demand,ジュ
+儒,16,Confucian,ジュ
+樹,16,trees,ジュ
+収,4,take in,シュウ; おさ.める; おさ.まる
+囚,5,captured,シュウ
+州,6,state,シュウ; す
+舟,6,boat,シュウ; ふね; （ふな）
+秀,7,excel,シュウ; ひい.でる
+周,8,circumference,シュウ; まわ.り
+宗,8,religion,シュウ; ソウ
+拾,9,pick up,シュウ; ジュウ; ひろ.う
+秋,9,autumn,シュウ; あき
+臭,9,stinking,シュウ; くさ.い; にお.う
+修,10,discipline,シュウ; （シュ）; おさ.める; おさ.まる
+袖,10,sleeve,シュウ; そで
+終,11,end,シュウ; お.わる; お.える
+羞,11,feel ashamed,シュウ
+習,11,learn,シュウ; なら.う
+週,11,week,シュウ
+就,12,concerning,シュウ; （ジュ）; つ.く; つ.ける
+衆,12,masses,シュウ; （シュ）
+集,12,collect,シュウ; あつ.まる; あつ.める; つど.う
+愁,13,distress,シュウ; うれ.える; うれ.い
+酬,13,repay,シュウ
+醜,17,ugly,シュウ; みにく.い
+蹴,19,kick,シュウ; け.る
+襲,22,attack,シュウ; おそ.う
+十,2,ten,ジュウ; ジッ; とお; と
+汁,5,soup,ジュウ; しる
+充,6,allot,ジュウ; あ.てる
+住,7,dwelling,ジュウ; す.む; す.まう
+柔,9,tender,ジュウ; ニュウ; やわ.らか; やわ.らかい
+重,9,heavy,ジュウ; チョウ; え; おも.い; かさ.ねる; かさ.なる
+従,10,obey,ジュウ; （ショウ）; （ジュ）; したが.う; したが.える
+渋,11,astringent,ジュウ; しぶ; しぶ.い; しぶ.る
+銃,14,gun,ジュウ
+獣,16,animal,ジュウ; けもの
+縦,16,vertical,ジュウ; たて
+叔,8,uncle,シュク
+祝,9,celebrate,シュク; （シュウ）; いわ.う
+宿,11,inn,シュク; やど; やど.る; やど.す
+淑,11,graceful,シュク
+粛,11,solemn,シュク
+縮,17,shrink,シュク; ちぢ.む; ちぢ.まる; ちぢ.める; ちぢ.れる; ちぢ.らす
+塾,14,cram school,ジュク
+熟,15,ripen,ジュク; う.れる
+出,5,exit,シュツ; （スイ）; で.る; だ.す
+述,8,mention,ジュツ; の.べる
+術,11,art,ジュツ
+俊,9,genius,シュン
+春,9,springtime,シュン; はる
+瞬,18,wink,シュン; またた.く
+旬,6,10.day/period (of the month),ジュン; （シュン）
+巡,6,patrol,ジュン; めぐ.る
+盾,9,shield,ジュン; たて
+准,10,quasi,ジュン
+殉,10,martyrdom,ジュン
+純,10,genuine,ジュン
+循,12,sequential,ジュン
+順,12,obey,ジュン
+準,13,standard,ジュン
+潤,15,wet,ジュン; うるお.う; うるお.す; うる.む
+遵,15,abide by,ジュン
+処,5,dispose,ショ
+初,7,first,ショ; はじ.め; はじ.めて; はつ; うい; そ.める
+所,8,place,ショ; ところ
+書,10,write,ショ; か.く
+庶,11,commoner,ショ
+暑,12,hot,ショ; あつ.い
+署,13,government office,ショ
+緒,14,thong,ショ; （チョ）; お
+諸,15,various,ショ
+女,3,woman,ジョ; ニョ; （ニョウ）; おんな; め
+如,6,likeness,ジョ; ニョ
+助,7,help,ジョ; たす.ける; たす.かる; すけ
+序,7,preface,ジョ
+叙,9,confer,ジョ
+徐,10,gradually,ジョ
+除,10,exclude,ジョ; （ジ）; のぞ.く
+小,3,small,ショウ; ちい.さい; こ; お
+升,4,measuring box,ショウ; ます
+少,4,few,ショウ; すく.ない; すこ.し
+召,5,summon,ショウ; め.す
+匠,6,artisan,ショウ
+床,7,bed,ショウ; とこ; ゆか
+抄,7,extract,ショウ
+肖,7,resemblance,ショウ
+尚,8,esteem,ショウ
+招,8,beckon,ショウ; まね.く
+承,8,acquiesce,ショウ; うけたまわ.る
+昇,8,rise up,ショウ; のぼ.る
+松,8,pine,ショウ; まつ
+沼,8,marsh,ショウ; ぬま
+昭,9,shining,ショウ
+宵,10,wee hours,ショウ; よい
+将,10,leader,ショウ
+消,10,extinguish,ショウ; き.える; け.す
+症,10,symptoms,ショウ
+祥,10,auspicious,ショウ
+称,10,appellation,ショウ
+笑,10,laugh,ショウ; わら.う; え.む
+唱,11,chant,ショウ; とな.える
+商,11,sell,ショウ; あきな.う
+渉,11,ford,ショウ
+章,11,chapter,ショウ
+紹,11,introduce,ショウ
+訟,11,sue,ショウ
+勝,12,win,ショウ; か.つ; まさ.る
+掌,12,manipulate,ショウ
+晶,12,sparkle,ショウ
+焼,12,bake,ショウ; や.く; や.ける
+焦,12,char,ショウ; こ.げる; こ.がす; こ.がれる; あせ.る
+硝,12,nitrate,ショウ
+粧,12,cosmetics,ショウ
+詔,12,imperial edict,ショウ; みことのり
+証,12,evidence,ショウ
+象,12,elephant,ショウ; ゾウ
+傷,13,wound,ショウ; きず; いた.む; いた.める
+奨,13,exhort,ショウ
+照,13,illuminate,ショウ; て.る; て.らす; て.れる
+詳,13,detailed,ショウ; くわ.しい
+彰,14,patent,ショウ
+障,14,hurt,ショウ; さわ.る
+憧,15,desire,ショウ; あこが.れる
+衝,15,collide,ショウ
+賞,15,prize,ショウ
+償,17,reparation,ショウ; つぐな.う
+礁,17,reef,ショウ
+鐘,20,bell,ショウ; かね
+上,3,up,ジョウ; （ショウ）; うえ; （うわ）; かみ; あ.げる; あ.がる; のぼ.る; のぼ.せる; のぼ.す
+丈,3,length,ジョウ; たけ
+冗,4,superfluous,ジョウ
+条,7,clause,ジョウ
+状,7,form,ジョウ
+乗,9,ride,ジョウ; の.る; の.せる
+城,9,castle,ジョウ; しろ
+浄,9,clean,ジョウ
+剰,11,surplus,ジョウ
+常,11,normal,ジョウ; つね; とこ
+情,11,feelings,ジョウ; （セイ）; なさ.け
+場,12,place,ジョウ; ば
+畳,12,tatami mat,ジョウ; たた.む; たたみ
+蒸,13,steam,ジョウ; む.す; む.れる; む.らす
+縄,15,straw rope,ジョウ; なわ
+壌,16,lot,ジョウ
+嬢,16,lass,ジョウ
+錠,16,lock,ジョウ
+譲,20,defer,ジョウ; ゆず.る
+醸,20,brew,ジョウ; かも.す
+色,6,color,ショク; シキ; いろ
+拭,9,wipe,ショク; ふ.く; ぬぐ.う
+食,9,eat/meal,ショク; （ジキ）; く.う; く.らう; た.べる
+植,12,plant,ショク; う.える; う.わる
+殖,12,augment,ショク; ふ.える; ふ.やす
+飾,13,decorate,ショク; かざ.る
+触,13,contact,ショク; ふ.れる; さわ.る
+嘱,15,entrust,ショク
+織,18,weave,ショク; シキ; お.る
+職,18,employment,ショク
+辱,10,embarrass,ジョク; はずかし.める
+尻,5,buttocks,しり
+心,4,heart,シン; こころ
+申,5,say,シン; もう.す
+伸,7,lengthen,シン; の.びる; の.ばす; の.べる
+臣,7,retainer,シン; ジン
+芯,7,core,シン
+身,7,body,シン; み
+辛,7,spicy,シン; から.い
+侵,9,encroach,シン; おか.す
+信,9,trust,シン
+津,9,haven,シン; つ
+神,9,god,シン; ジン; かみ; （かん）; （こう）
+唇,10,lips,シン; くちびる
+娠,10,with child,シン
+振,10,shake,シン; ふ.る; ふ.るう; ふ.れる
+浸,10,immersed,シン; ひた.す; ひた.る
+真,10,true,シン; ま
+針,10,needle,シン; はり
+深,11,deep,シン; ふか.い; ふか.まる; ふか.める
+紳,11,sire,シン
+進,11,advance,シン; すす.む; すす.める
+森,12,forest,シン; もり
+診,12,checkup,シン; み.る
+寝,13,lie down,シン; ね.る; ね.かす
+慎,13,humility,シン; つつし.む
+新,13,new,シン; あたら.しい; あら.た; にい
+審,15,examine,シン
+震,15,quake,シン; ふる.う; ふる.える
+薪,16,fuel,シン; たきぎ
+親,16,parent,シン; おや; した.しい; した.しむ
+人,2,person,ジン; ニン; ひと
+刃,3,blade,ジン; は
+仁,4,humanity,ジン; （ニ）
+尽,6,exhaust,ジン; つ.くす; つ.きる; つ.かす
+迅,6,swift,ジン
+甚,9,tremendously,ジン; はなは.だ; はなは.だしい
+陣,10,camp,ジン
+尋,12,inquire,ジン; たず.ねる
+腎,13,kidney,ジン
+須,12,by all means,ス
+図,7,diagram,ズ; ト; はか.る
+水,4,water,スイ; みず
+吹,7,blow,スイ; ふ.く
+垂,8,droop,スイ; た.れる; た.らす
+炊,8,cook,スイ; た.く
+帥,9,commander,スイ
+粋,10,chic,スイ; いき
+衰,10,decline,スイ; おとろ.える
+推,11,infer,スイ; お.す
+酔,11,drunk,スイ; よ.う
+遂,12,consummate,スイ; と.げる
+睡,13,drowsy,スイ
+穂,15,ear,スイ; ほ
+随,12,follow,ズイ
+髄,19,marrow,ズイ
+枢,8,hinge,スウ
+崇,11,adore,スウ
+数,13,number,スウ; （ス）; かず; かぞ.える
+据,11,set,す.える; す.わる
+杉,7,cedar,すぎ
+裾,13,cuff,すそ
+寸,3,measurement,スン
+瀬,19,rapids,せ
+是,9,just so,ゼ
+井,4,well,セイ; （ショウ）; い
+世,5,world,セイ; セ; よ
+正,5,correct,セイ; ショウ; ただ.しい; ただ.す; まさ
+生,5,life,セイ; ショウ; い.きる; い.かす; い.ける; う.まれる; う.む; お.う; は.える; は.やす; き; なま
+成,6,become,セイ; （ジョウ）; な.る; な.す
+西,6,west,セイ; サイ; にし
+声,7,voice,セイ; （ショウ）; こえ; （こわ）
+制,8,control,セイ
+姓,8,surname,セイ; ショウ
+征,8,subjugate,セイ
+性,8,gender,セイ; ショウ
+青,8,blue,セイ; （ショウ）; あお; あお.い
+斉,8,adjusted,セイ
+政,9,politics,セイ; （ショウ）; まつりごと
+星,9,star,セイ; （ショウ）; ほし
+牲,9,animal sacrifice,セイ
+省,9,government/ministry,セイ; ショウ; かえり.みる; はぶ.く
+凄,10,uncanny,セイ
+逝,10,departed,セイ; ゆ.く; い.く
+清,11,pure,セイ; （ショウ）; きよ.い; きよ.まる; きよ.める
+盛,11,prosper,セイ; （ジョウ）; も.る; さか.る; さか.ん
+婿,12,bridegroom,セイ; むこ
+晴,12,clear up,セイ; は.れる; は.らす
+勢,13,power,セイ; いきお.い
+聖,13,holy,セイ
+誠,13,sincerity,セイ; まこと
+精,14,refined,セイ; （ショウ）
+製,14,manufacture,セイ
+誓,14,vow,セイ; ちか.う
+静,14,quiet,セイ; （ジョウ）; しず; しず.か; しず.まる; しず.める
+請,15,solicit,セイ; （シン）; こ.う; う.ける
+整,16,put in order,セイ; ととの.える; ととの.う
+醒,16,be disillusioned,セイ
+税,12,tax,ゼイ
+夕,3,evening,セキ; ゆう
+斥,5,reject,セキ
+石,5,stone,セキ; （シャク）; （コク）; いし
+赤,7,red,セキ; （シャク）; あか; あか.い; あか.らむ; あか.らめる
+昔,8,long ago,セキ; （シャク）; むかし
+析,8,chop,セキ
+席,10,seat,セキ
+脊,10,stature,セキ
+隻,10,vessels,セキ
+惜,11,pity,セキ; お.しい; お.しむ
+戚,11,grieve,セキ
+責,11,blame,セキ; せ.める
+跡,13,tracks,セキ; あと
+積,16,accumulate,セキ; つ.む; つ.もる
+績,17,exploits,セキ
+籍,20,enroll,セキ
+切,4,cut,セツ; （サイ）; き.る; き.れる
+折,7,fold,セツ; お.る; おり; お.れる
+拙,8,bungling,セツ; つたな.い
+窃,9,stealth,セツ
+接,11,contact,セツ; つ.ぐ
+設,11,establish,セツ; もう.ける
+雪,11,snow,セツ; ゆき
+摂,13,vicarious,セツ
+節,13,node,セツ; （セチ）; ふし
+説,14,theory,セツ; （ゼイ）; と.く
+舌,6,tongue,ゼツ; した
+絶,12,discontinue,ゼツ; た.える; た.やす; た.つ
+千,3,thousand,セン; ち
+川,3,river,セン; かわ
+仙,5,hermit,セン
+占,5,fortune telling,セン; し.める; うらな.う
+先,6,previous,セン; さき
+宣,9,proclaim,セン
+専,9,specialty,セン; もっぱ.ら
+泉,9,spring,セン; いずみ
+浅,9,shallow,セン; あさ.い
+洗,9,wash,セン; あら.う
+染,9,dye,セン; そ.める; そ.まる; し.みる; し.み
+扇,10,fan,セン; おうぎ
+栓,10,plug,セン
+旋,11,rotation,セン
+船,11,boat,セン; ふね; （ふな）
+戦,13,war,セン; いくさ; たたか.う
+煎,13,broil,セン; い.る
+羨,13,envy,セン; うらや.む; うらや.ましい
+腺,13,gland,セン
+詮,13,discussion,セン
+践,13,tread,セン
+箋,14,paper,セン
+銭,14,coin,セン; ぜに
+潜,15,submerge,セン; ひそ.む; もぐ.る
+線,15,line,セン
+遷,15,transition,セン
+選,15,choose,セン; えら.ぶ
+薦,16,recommend,セン; すす.める
+繊,17,slender,セン
+鮮,17,fresh,セン; あざ.やか
+全,6,whole,ゼン; まった.く; すべ.て
+前,9,in front,ゼン; まえ
+善,12,good,ゼン; よ.い
+然,12,so,ゼン; ネン
+禅,13,Zen,ゼン
+漸,14,steadily,ゼン
+膳,16,tray,ゼン
+繕,18,darning,ゼン; つくろ.う
+狙,8,aim at,ソ; ねら.う
+阻,8,thwart,ソ; はば.む
+祖,9,ancestor,ソ
+租,10,tariff,ソ
+素,10,elementary,ソ; ス
+措,11,set aside,ソ
+粗,11,coarse,ソ; あら.い
+組,11,association,ソ; く.む; くみ
+疎,12,alienate,ソ; うと.い; うと.む
+訴,12,sue,ソ; うった.える
+塑,13,model,ソ
+遡,14,go upstream,ソ; さかのぼ.る
+礎,18,cornerstone,ソ; いしずえ
+双,4,pair,ソウ; ふた
+壮,6,robust,ソウ
+早,6,early,ソウ; （サッ）; はや.い; はや.まる; はや.める
+争,6,conflict,ソウ; あらそ.う
+走,7,run,ソウ; はし.る
+奏,9,play music,ソウ; かな.でる
+相,9,mutual,ソウ; ショウ; あい
+荘,9,villa,ソウ
+草,9,grass,ソウ; くさ
+送,9,send,ソウ; おく.る
+倉,10,warehouse,ソウ; くら
+捜,10,search,ソウ; さが.す
+挿,10,insert,ソウ; さ.す
+桑,10,mulberry,ソウ; くわ
+巣,11,nest,ソウ; す
+掃,11,sweep,ソウ; は.く
+曹,11,cadet,ソウ
+曽,11,formerly,ソウ; （ゾ）
+爽,11,refreshing,ソウ; さわ.やか
+窓,11,window,ソウ; まど
+創,12,create,ソウ; つく.る
+喪,12,miss,ソウ; も
+痩,12,get thin,ソウ; や.せる
+葬,12,interment,ソウ; ほうむ.る
+装,12,attire,ソウ; ショウ; よそお.う
+僧,13,Buddhist priest,ソウ
+想,13,concept,ソウ; （ソ）
+層,14,stratum,ソウ
+総,14,whole,ソウ
+遭,14,encounter,ソウ; あ.う
+槽,15,vat,ソウ
+踪,15,remains,ソウ
+操,16,maneuver,ソウ; みさお; あやつ.る
+燥,17,parch,ソウ
+霜,17,frost,ソウ; しも
+騒,18,boisterous,ソウ; さわ.ぐ
+藻,19,seaweed,ソウ; も
+造,10,create,ゾウ; つく.る
+像,14,statue,ゾウ
+増,14,increase,ゾウ; ま.す; ふ.える; ふ.やす
+憎,14,hate,ゾウ; にく.む; にく.い; にく.らしい; にく.しみ
+蔵,15,warehouse,ゾウ; くら
+贈,18,presents,ゾウ; （ソウ）; おく.る
+臓,19,entrails,ゾウ
+即,7,instant,ソク
+束,7,bundle,ソク; たば
+足,7,foot,ソク; あし; た.りる; た.る; た.す
+促,9,stimulate,ソク; うなが.す
+則,9,rule,ソク
+息,10,breath,ソク; いき
+捉,10,capture,ソク; とら.える
+速,10,fast,ソク; はや.い; はや.める; はや.まる; すみ.やか
+側,11,side,ソク; がわ
+測,12,fathom,ソク; はか.る
+俗,9,vulgar,ゾク
+族,11,tribe,ゾク
+属,12,belong,ゾク
+賊,13,burglar,ゾク
+続,13,continue,ゾク; つづ.く; つづ.ける
+卒,8,graduate,ソツ
+率,11,rate,ソツ; リツ; ひき.いる
+存,6,suppose,ソン; ゾン
+村,7,village,ソン; むら
+孫,10,grandchild,ソン; まご
+尊,12,revered,ソン; たっと.い; とうと.い; たっと.ぶ; とうと.ぶ
+損,13,loss,ソン; そこ.なう; そこ.ねる
+遜,14,humble,ソン
+他,5,other,タ; ほか
+多,6,many,タ; おお.い
+汰,7,luxury,タ
+打,5,hit,ダ; う.つ
+妥,7,gentle,ダ
+唾,11,saliva,ダ; つば
+堕,12,degenerate,ダ
+惰,12,lazy,ダ
+駄,14,burdensome,ダ
+太,4,thick,タイ; タ; ふと.い; ふと.る
+対,7,opposite,タイ; ツイ
+体,7,body,タイ; テイ; からだ
+耐,9,resistant,タイ; た.える
+待,9,wait,タイ; ま.つ
+怠,9,neglect,タイ; おこた.る; なま.ける
+胎,9,womb,タイ
+退,9,retreat,タイ; しりぞ.く; しりぞ.ける
+帯,10,sash,タイ; お.びる; おび
+泰,10,peaceful,タイ
+堆,11,piled high,タイ
+袋,11,sack,タイ; ふくろ
+逮,11,apprehend,タイ
+替,12,exchange,タイ; か.える; か.わる
+貸,12,lend,タイ; か.す
+隊,12,group,タイ
+滞,13,stagnate,タイ; とどこお.る
+態,14,condition,タイ
+戴,17,be crowned with,タイ
+大,3,large,ダイ; タイ; おお; おお.きい; おお.いに
+代,5,substitute,ダイ; タイ; か.わる; か.える; よ; しろ
+台,5,pedestal,ダイ; タイ
+第,11,ordinal number prefix,ダイ
+題,18,topic,ダイ
+滝,13,waterfall,たき
+宅,6,home,タク
+択,7,choose,タク
+沢,7,swamp,タク; さわ
+卓,8,eminent,タク
+拓,8,clear (the land),タク
+託,10,consign,タク
+濯,17,laundry,タク
+諾,15,consent,ダク
+濁,16,voiced,ダク; にご.る; にご.す
+但,7,however,ただ.し
+達,12,attain,タツ
+脱,11,undress,ダツ; ぬ.ぐ; ぬ.げる
+奪,14,rob,ダツ; うば.う
+棚,12,shelf,たな
+誰,15,who (question word),だれ
+丹,4,cinnabar,タン
+旦,5,daybreak,タン; ダン
+担,8,shouldering,タン; かつ.ぐ; にな.う
+単,9,simple,タン
+炭,9,charcoal,タン; すみ
+胆,9,gall bladder,タン
+探,11,grope,タン; さぐ.る; さが.す
+淡,11,thin,タン; あわ.い
+短,12,short,タン; みじか.い
+嘆,13,sigh,タン; なげ.く; なげ.かわしい
+端,14,edge,タン; はし; は; はた
+綻,14,rip,タン; ほころ.びる
+誕,15,nativity,タン
+鍛,17,forge,タン; きた.える
+団,6,group,ダン; （トン）
+男,7,male,ダン; ナン; おとこ
+段,9,steps,ダン
+断,11,cut off,ダン; た.つ; ことわ.る
+弾,12,bullet,ダン; ひ.く; はず.む; たま
+暖,13,warmth,ダン; あたた.か; あたた.かい; あたた.まる; あたた.める
+談,15,discuss,ダン
+壇,16,podium,ダン; （タン）
+地,6,ground,チ; ジ
+池,6,pond,チ; いけ
+知,8,know,チ; し.る
+値,10,value,チ; ね; あたい
+恥,10,shame,チ; は.じる; はじ; は.じらう; は.ずかしい
+致,10,(to); do,チ; いた.す
+遅,12,slow,チ; おく.れる; おく.らす; おそ.い
+痴,13,stupid,チ
+稚,13,immature,チ
+置,13,put,チ; お.く
+緻,16,fine (not coarse),チ
+竹,6,bamboo,チク; たけ
+畜,10,livestock,チク
+逐,10,pursue,チク
+蓄,13,amass,チク; たくわ.える
+築,16,fabricate,チク; きず.く
+秩,10,regularity,チツ
+窒,11,plug up,チツ
+茶,9,tea,チャ; サ
+着,12,wear,チャク; （ジャク）; き.る; き.せる; つ.く; つ.ける
+嫡,14,legitimate wife,チャク
+中,4,middle,チュウ; （ジュウ）; なか
+仲,6,relationship,チュウ; なか
+虫,6,insect,チュウ; むし
+沖,7,open sea,チュウ; おき
+宙,8,mid.air,チュウ
+忠,8,loyalty,チュウ
+抽,8,pluck,チュウ
+注,8,pour,チュウ; そそ.ぐ
+昼,9,daytime,チュウ; ひる
+柱,9,pillar,チュウ; はしら
+衷,10,inmost,チュウ
+酎,10,sake,チュウ
+鋳,15,casting,チュウ; い.る
+駐,15,stop.over,チュウ
+著,11,renowned,チョ; あらわ.す; いちじる.しい
+貯,12,savings,チョ
+丁,2,ward,チョウ; テイ
+弔,4,condolences,チョウ; とむら.う
+庁,5,government office,チョウ
+兆,6,portent/trillion,チョウ; きざ.す; きざ.し
+町,7,town,チョウ; まち
+長,8,long,チョウ; なが.い
+挑,9,challenge,チョウ; いど.む
+帳,11,account/book,チョウ
+張,11,stretch,チョウ; は.る
+彫,11,carve,チョウ; ほ.る
+眺,11,stare,チョウ; なが.める
+釣,11,angling,チョウ; つ.る
+頂,11,place on the head,チョウ; いただ.く; いただき
+鳥,11,bird,チョウ; とり
+朝,12,morning,チョウ; あさ
+貼,12,paste,チョウ; は.る
+超,12,transcend,チョウ; こ.える; こ.す
+腸,13,intestines,チョウ
+跳,13,hop,チョウ; は.ねる; と.ぶ
+徴,14,indications,チョウ
+嘲,15,ridicule,チョウ; あざけ.る
+潮,15,tide,チョウ; しお
+澄,15,lucidity,チョウ; す.む; す.ます
+調,15,investigate,チョウ; しら.べる; ととの.う; ととの.える
+聴,17,listen,チョウ; き.く
+懲,18,penal,チョウ; こ.りる; こ.らす; こ.らしめる
+直,8,straight,チョク; ジキ; ただ.ちに; なお.す; なお.る
+勅,9,imperial order,チョク
+捗,10,make progress,チョク
+沈,7,sink,チン; しず.む; しず.める
+珍,9,rare,チン; めずら.しい
+朕,10,majestic/plural,チン
+陳,11,exhibit,チン
+賃,13,fare,チン
+鎮,18,tranquilize,チン; しず.める; しず.まる
+追,9,follow,ツイ; お.う
+椎,12,oak,ツイ
+墜,15,crash,ツイ
+通,10,pass through,ツウ; （ツ）; とお.る; とお.す; かよ.う
+痛,12,pain,ツウ; いた.い; いた.む; いた.める
+塚,12,hillock,つか
+漬,14,pickling,つ.ける; つ.かる
+坪,8,two-mat area,つぼ
+爪,4,claw,つめ; （つま）
+鶴,21,crane,つる
+低,7,low,テイ; ひく.い; ひく.める; ひく.まる
+呈,7,display,テイ
+廷,7,courts,テイ
+弟,7,younger brother,テイ; （ダイ）; （デ）; おとうと
+定,8,decide,テイ; ジョウ; さだ.める; さだ.まる; さだ.か
+底,8,bottom,テイ; そこ
+抵,8,resist,テイ
+邸,8,residence,テイ
+亭,9,pavilion,テイ
+貞,9,upright,テイ
+帝,9,sovereign,テイ
+訂,9,revise,テイ
+庭,10,garden,テイ; にわ
+逓,10,relay,テイ
+停,11,halt,テイ
+偵,11,spy,テイ
+堤,12,dike,テイ; つつみ
+提,12,present,テイ; さ.げる
+程,12,extent,テイ; ほど
+艇,13,rowboat,テイ
+締,15,tighten,テイ; し.まる; し.める
+諦,16,abandon,テイ; あきら.める
+泥,8,mud,デイ; どろ
+的,8,target,テキ; まと
+笛,11,flute,テキ; ふえ
+摘,14,pinch,テキ; つ.む
+滴,14,drip,テキ; しずく; したた.る
+適,14,suitable,テキ
+敵,15,enemy,テキ; かたき
+溺,13,drown,デキ; おぼ.れる
+迭,8,transfer,テツ
+哲,10,philosophy,テツ
+鉄,13,iron,テツ
+徹,15,penetrate,テツ
+撤,15,remove,テツ
+天,4,heaven,テン; あめ; （あま）
+典,8,code,テン
+店,8,shop,テン; みせ
+点,9,point,テン
+展,10,expand,テン
+添,11,annexed,テン; そ.える; そ.う
+転,11,revolve,テン; ころ.がる; ころ.げる; ころ.がす; ころ.ぶ
+塡,13,fill in,テン
+田,5,rice paddy,デン; た
+伝,6,transmit,デン; つた.わる; つた.える; つた.う
+殿,13,Mr.,デン; テン; との; どの
+電,13,electricity,デン
+斗,4,Big Dipper,ト
+吐,6,spit,ト; は.く
+妬,8,jealousy,ト; ねた.む
+徒,10,junior,ト
+途,10,route,ト
+都,11,metropolis,ト; ツ; みやこ
+渡,12,transit,ト; わた.る; わた.す
+塗,13,paint,ト; ぬ.る
+賭,16,gamble,ト; か.ける
+土,3,soil,ド; ト; つち
+奴,5,guy,ド
+努,7,toil,ド; つと.める
+度,9,degrees,ド; （ト）; （タク）; たび
+怒,9,angry,ド; いか.る; おこ.る
+刀,2,sword,トウ; かたな
+冬,5,winter,トウ; ふゆ
+灯,6,lamp,トウ; ひ
+当,6,hit,トウ; あ.たる; あ.てる
+投,7,throw,トウ; な.げる
+豆,7,beans,トウ; （ズ）; まめ
+東,8,east,トウ; ひがし
+到,8,arrival,トウ
+逃,9,escape,トウ; に.げる; に.がす; のが.す; のが.れる
+倒,10,overthrow,トウ; たお.れる; たお.す
+凍,10,frozen,トウ; こお.る; こご.える
+唐,10,T\'ang,トウ; から
+島,10,island,トウ; しま
+桃,10,peach tree,トウ; もも
+討,10,chastise,トウ; う.つ
+透,10,transparent,トウ; す.く; す.かす; す.ける
+党,10,group,トウ
+悼,11,lament,トウ; いた.む
+盗,11,steal,トウ; ぬす.む
+陶,11,pottery,トウ
+塔,12,pagoda,トウ
+搭,12,board,トウ
+棟,12,ridgepole,トウ; むね; （むな）
+湯,12,hot water,トウ; ゆ
+痘,12,pox,トウ
+登,12,climb,トウ; ト; のぼ.る
+答,12,answer,トウ; こた.える; こた.え
+等,12,class,トウ; ひと.しい
+筒,12,cylinder,トウ; つつ
+統,12,unite,トウ; す.べる
+稲,14,rice/plant,トウ; いね; （いな）
+踏,15,step,トウ; ふ.む; ふ.まえる
+糖,16,sugar,トウ
+頭,16,head,トウ; ズ; （ト）; あたま; かしら
+謄,17,mimeograph,トウ
+藤,18,wisteria,トウ; ふじ
+闘,18,fight,トウ; たたか.う
+騰,20,inflation,トウ
+同,6,same,ドウ; おな.じ
+洞,9,den,ドウ; ほら
+胴,10,trunk,ドウ
+動,11,move,ドウ; うご.く; うご.かす
+堂,11,public chamber,ドウ
+童,12,juvenile,ドウ; わらべ
+道,12,road,ドウ; （トウ）; みち
+働,13,work,ドウ; はたら.く
+銅,14,copper,ドウ
+導,15,guide,ドウ; みちび.く
+瞳,17,pupil,ドウ; ひとみ
+峠,9,mountain peak,とうげ
+匿,10,hide,トク
+特,10,special,トク
+得,11,acquire,トク; え.る; う.る
+督,13,coach,トク
+徳,14,benevolence,トク
+篤,16,fervent,トク
+毒,8,poison,ドク
+独,9,alone,ドク; ひと.り
+読,14,read,ドク; トク; （トウ）; よ.む
+栃,9,horse chestnut,（とち）
+凸,5,convex,トツ
+突,8,stab,トツ; つ.く
+届,8,deliver,とど.ける; とど.く
+屯,4,barracks,トン
+豚,11,pork,トン; ぶた
+頓,13,suddenly,トン
+貪,11,covet,ドン; むさぼ.る
+鈍,12,dull,ドン; にぶ.い; にぶ.る
+曇,16,cloudy weather,ドン; くも.る
+丼,5,bowl of food,どんぶり; （どん）
+那,7,what,ナ
+奈,8,what,ナ
+内,4,inside,ナイ; （ダイ）; うち
+梨,11,pear tree,なし
+謎,17,riddle,なぞ
+鍋,17,pot,なべ
+南,9,south,ナン; （ナ）; みなみ
+軟,11,soft,ナン; やわ.らか; やわ.らかい
+難,18,difficult,ナン; かた.い; むずか.しい
+二,2,two,ニ; ふた; ふた.つ
+尼,5,nun,ニ; あま
+弐,6,two (falsification prevention),ニ
+匂,4,scent,にお.う
+肉,6,meat,ニク
+虹,9,rainbow,にじ
+日,4,day,ニチ; ジツ; ひ; か
+入,2,enter,ニュウ; い.る; い.れる; はい.る
+乳,8,milk,ニュウ; ちち; ち
+尿,7,urine,ニョウ
+任,6,responsibility,ニン; まか.せる; まか.す
+妊,7,pregnancy,ニン
+忍,7,endure,ニン; しの.ぶ; しの.ばせる
+認,14,recognize,ニン; みと.める
+寧,14,rather,ネイ
+熱,15,heat,ネツ; あつ.い
+年,6,year,ネン; とし
+念,8,thought,ネン
+捻,11,twist,ネン
+粘,11,sticky,ネン; ねば.る
+燃,16,burn,ネン; も.える; も.やす; も.す
+悩,10,trouble,ノウ; なや.む; なや.ます
+納,10,settlement,ノウ; （ナッ）; （ナ）; （ナン）; （トウ）; おさ.める; おさ.まる
+能,10,ability,ノウ
+脳,11,brain,ノウ
+農,13,farming,ノウ
+濃,16,concentrated,ノウ; こ.い
+把,7,grasp,ハ
+波,8,wave,ハ; なみ
+派,9,sect,ハ
+破,10,rend,ハ; やぶ.る; やぶ.れる
+覇,19,hegemony,ハ
+馬,10,horse,バ; うま; （ま）
+婆,11,old woman,バ
+罵,15,insult,バ; ののし.る
+拝,8,worship,ハイ; おが.む
+杯,8,counter for cupfuls,ハイ; さかずき
+背,9,back,ハイ; せ; せい; そむ.く; そむ.ける
+肺,9,lungs,ハイ
+俳,10,haiku,ハイ
+配,10,distribute,ハイ; くば.る
+排,11,repudiate,ハイ
+敗,11,failure,ハイ; やぶ.れる
+廃,12,abolish,ハイ; すた.れる; すた.る
+輩,15,comrade,ハイ
+売,7,sell,バイ; う.る; う.れる
+倍,10,double,バイ
+梅,10,ume (Japanese apricot),バイ; うめ
+培,11,cultivate,バイ; つちか.う
+陪,11,obeisance,バイ
+媒,12,mediator,バイ
+買,12,buy,バイ; か.う
+賠,15,compensation,バイ
+白,5,white,ハク; ビャク; しろ; （しら）; しろ.い
+伯,7,chief,ハク
+拍,8,clap,ハク; （ヒョウ）
+泊,8,overnight,ハク; と.まる; と.める
+迫,8,urge,ハク; せま.る
+剝,10,peel,ハク; は.がす; は.ぐ; は.がれる; は.げる
+舶,11,liner,ハク
+博,12,Dr.,ハク; （バク）
+薄,16,dilute,ハク; うす.い; うす.める; うす.まる; うす.らぐ; うす.れる
+麦,7,wheat,バク; むぎ
+漠,13,vague,バク
+縛,16,truss,バク; しば.る
+爆,19,explode,バク
+箱,15,box,はこ
+箸,15,chopsticks,はし
+畑,9,farm,はた; はたけ
+肌,6,texture,はだ
+八,2,eight,ハチ; や; や.つ; やっ.つ; （よう）
+鉢,13,bowl,ハチ; （ハツ）
+発,9,departure,ハツ; ホツ
+髪,14,hair of the head,ハツ; かみ
+伐,6,fell,バツ
+抜,7,slip out,バツ; ぬ.く; ぬ.ける; ぬ.かす; ぬ.かる
+罰,14,penalty,バツ; バチ
+閥,14,clique,バツ
+反,4,anti,ハン; （ホン）; （タン）; そ.る; そ.らす
+半,5,half,ハン; なか.ば
+氾,5,spread out,ハン
+犯,5,crime,ハン; おか.す
+帆,6,sail,ハン; ほ
+汎,6,pan,ハン
+伴,7,consort,ハン; バン; ともな.う
+判,7,judge,ハン; バン
+坂,7,slope,ハン; さか
+阪,7,heights,ハン
+板,8,board,ハン; バン; いた
+版,8,printing block,ハン
+班,10,squad,ハン
+畔,10,paddy.ridge,ハン
+般,10,generally,ハン
+販,11,marketing,ハン
+斑,12,blemish,ハン
+飯,12,meal,ハン; めし
+搬,13,conveyor,ハン
+煩,13,anxiety,ハン; （ボン）; わずら.う; わずら.わす
+頒,13,partition,ハン
+範,15,pattern,ハン
+繁,16,luxuriant,ハン
+藩,18,clan,ハン
+晩,12,nightfall,バン
+番,12,one\'s turn,バン
+蛮,12,barbarian,バン
+盤,15,tray,バン
+比,4,compare,ヒ; くら.べる
+皮,5,skin,ヒ; かわ
+妃,6,queen,ヒ
+否,7,negate,ヒ; いな
+批,7,criticism,ヒ
+彼,8,he,ヒ; かれ; （かの）
+披,8,expose,ヒ
+肥,8,fertilizer,ヒ; こ.える; こえ; こ.やす; こ.やし
+非,8,negative,ヒ
+卑,9,lowly,ヒ; いや.しい; いや.しむ; いや.しめる
+飛,9,fly,ヒ; と.ぶ; と.ばす
+疲,10,exhausted,ヒ; つか.れる
+秘,10,secret,ヒ; ひ.める
+被,10,incur,ヒ; こうむ.る
+悲,12,sad,ヒ; かな.しい; かな.しむ
+扉,12,front door,ヒ; とびら
+費,12,expense,ヒ; つい.やす; つい.える
+碑,14,tombstone,ヒ
+罷,15,quit,ヒ
+避,16,evade,ヒ; さ.ける
+尾,7,tail,ビ; お
+眉,9,eyebrow,ビ; （ミ）; まゆ
+美,9,beauty,ビ; うつく.しい
+備,12,provide,ビ; そな.える; そな.わる
+微,13,delicate,ビ
+鼻,14,nose,ビ; はな
+膝,15,knee,ひざ
+肘,7,elbow,ひじ
+匹,4,equal,ヒツ; ひき
+必,5,without fail,ヒツ; かなら.ず
+泌,8,ooze,ヒツ; ヒ
+筆,12,writing brush,ヒツ; ふで
+姫,10,princess,ひめ
+百,6,hundred,ヒャク
+氷,5,ice,ヒョウ; こおり; ひ
+表,8,express,ヒョウ; おもて; あらわ.す; あらわ.れる
+俵,10,bag,ヒョウ; たわら
+票,11,ballot,ヒョウ
+評,12,evaluate,ヒョウ
+漂,14,drift,ヒョウ; ただよ.う
+標,15,signpost,ヒョウ
+苗,8,seedling,ビョウ; なえ; （なわ）
+秒,9,second (part of time),ビョウ
+病,10,sick,ビョウ; （ヘイ）; や.む; やまい
+描,11,sketch,ビョウ; えが.く; か.く
+猫,11,cat,ビョウ; ねこ
+品,9,article,ヒン; しな
+浜,10,seacoast,ヒン; はま
+貧,11,poor,ヒン; ビン; まず.しい
+賓,15,V.I.P.,ヒン
+頻,17,repeatedly,ヒン
+敏,10,cleverness,ビン
+瓶,11,flower pot,ビン
+不,4,non,フ; ブ
+夫,4,husband,フ; （フウ）; おっと
+父,4,father,フ; ちち
+付,5,attach,フ; つ.ける; つ.く
+布,5,linen,フ; ぬの
+扶,7,aid,フ
+府,8,urban prefecture,フ
+怖,8,dreadful,フ; こわ.い
+阜,8,mound,（フ）
+附,8,affixed,フ
+訃,9,obituary,フ
+負,9,lose,フ; ま.ける; ま.かす; お.う
+赴,9,proceed,フ; おもむ.く
+浮,10,floating,フ; う.く; う.かれる; う.かぶ; う.かべる
+婦,11,lady,フ
+符,11,token,フ
+富,12,rich,フ; （フウ）; と.む; とみ
+普,12,universal,フ
+腐,14,rot,フ; くさ.る; くさ.れる; くさ.らす
+敷,15,spread,フ; し.く
+膚,15,skin,フ
+賦,15,levy,フ
+譜,19,musical score,フ
+侮,8,scorn,ブ; あなど.る
+武,8,military,ブ; ム
+部,11,part,ブ
+舞,15,dance,ブ; ま.う; まい
+封,9,seal,フウ; ホウ
+風,9,wind,フウ; （フ）; かぜ; （かざ）
+伏,6,prostrated,フク; ふ.せる; ふ.す
+服,8,clothes,フク
+副,11,vice,フク
+幅,12,breadth,フク; はば
+復,12,again,フク
+福,13,luck,フク
+腹,13,abdomen,フク; はら
+複,14,duplicate,フク
+覆,18,capsize,フク; おお.う; くつがえ.す; くつがえ.る
+払,5,pay,フツ; はら.う
+沸,8,seethe,フツ; わ.く; わ.かす
+仏,4,Buddha,ブツ; ほとけ
+物,8,thing,ブツ; モツ; もの
+粉,10,flour,フン; こ; こな
+紛,10,distract,フン; まぎ.れる; まぎ.らす; まぎ.らわす; まぎ.らわしい
+雰,12,atmosphere,フン
+噴,15,erupt,フン; ふ.く
+墳,15,tomb,フン
+憤,15,aroused,フン; いきどお.る
+奮,16,stirred up,フン; ふる.う
+分,4,minute/understand,ブン; フン; ブ; わ.ける; わ.かれる; わ.かる; わ.かつ
+文,4,writing,ブン; モン; ふみ
+聞,14,hear,ブン; モン; き.く; き.こえる
+丙,5,third class,ヘイ
+平,5,flat,ヘイ; ビョウ; たい.ら; ひら
+兵,7,soldier,ヘイ; ヒョウ
+併,8,join,ヘイ; あわ.せる
+並,8,line.up,ヘイ; なみ; なら.べる; なら.ぶ; なら.びに
+柄,9,design,ヘイ; がら; え
+陛,10,highness,ヘイ
+閉,11,closed,ヘイ; と.じる; と.ざす; し.める; し.まる
+塀,12,fence,ヘイ
+幣,15,cash,ヘイ
+弊,15,abuse,ヘイ
+蔽,15,cover,ヘイ
+餅,15,mochi rice cake,ヘイ; もち
+米,6,rice,ベイ; マイ; こめ
+壁,16,wall,ヘキ; かべ
+璧,18,sphere,ヘキ
+癖,18,mannerism,ヘキ; くせ
+別,7,separate,ベツ; わか.れる
+蔑,14,ignore,ベツ; さげす.む
+片,4,one.sided,ヘン; かた
+辺,5,environs,ヘン; あた.り; べ
+返,7,return,ヘン; かえ.す; かえ.る
+変,9,change,ヘン; か.わる; か.える
+偏,11,partial,ヘン; かたよ.る
+遍,12,everywhere,ヘン
+編,15,compile,ヘン; あ.む
+弁,5,valve,ベン
+便,9,convenience,ベン; ビン; たよ.り
+勉,10,exertion,ベン
+歩,8,walk,ホ; ブ; （フ）; ある.く; あゆ.む
+保,9,preserve,ホ; たも.つ
+哺,10,suckle,ホ
+捕,10,catch,ホ; と.らえる; と.らわれる; と.る; つか.まえる; つか.まる
+補,12,supplement,ホ; おぎな.う
+舗,15,pavement,ホ
+母,5,mother,ボ; はは
+募,12,recruit,ボ; つの.る
+墓,13,grave,ボ; はか
+慕,14,pining,ボ; した.う
+暮,14,livelihood,ボ; く.れる; く.らす
+簿,19,register,ボ
+方,4,direction,ホウ; かた
+包,5,wrap,ホウ; つつ.む
+芳,7,perfume,ホウ; かんば.しい
+邦,7,home country,ホウ
+奉,8,observance,ホウ; （ブ）; たてまつ.る
+宝,8,treasure,ホウ; たから
+抱,8,embrace,ホウ; だ.く; いだ.く; かか.える
+放,8,release,ホウ; はな.す; はな.つ; はな.れる; ほう.る
+法,8,method,ホウ; （ハッ）; （ホッ）
+泡,8,bubbles,ホウ; あわ
+胞,9,placenta,ホウ
+俸,10,salary,ホウ
+倣,10,emulate,ホウ; なら.う
+峰,10,summit,ホウ; みね
+砲,10,cannon,ホウ
+崩,11,crumble,ホウ; くず.れる; くず.す
+訪,11,visit,ホウ; おとず.れる; たず.ねる
+報,12,report,ホウ; むく.いる
+蜂,13,bee,ホウ; はち
+豊,13,bountiful,ホウ; ゆた.か
+飽,13,sated,ホウ; あ.きる; あ.かす
+褒,15,praise,ホウ; ほ.める
+縫,16,sew,ホウ; ぬ.う
+亡,3,deceased,ボウ; （モウ）; な.い
+乏,4,scarce,ボウ; とぼ.しい
+忙,6,busy,ボウ; いそが.しい
+坊,7,boy,ボウ; （ボッ）
+妨,7,disturb,ボウ; さまた.げる
+忘,7,forget,ボウ; わす.れる
+防,7,prevent,ボウ; ふせ.ぐ
+房,8,tassel,ボウ; ふさ
+肪,8,obese,ボウ
+某,9,so.and.so,ボウ
+冒,9,risk,ボウ; おか.す
+剖,10,divide,ボウ
+紡,10,spinning,ボウ; つむ.ぐ
+望,11,hope,ボウ; モウ; のぞ.む
+傍,12,bystander,ボウ; かたわ.ら
+帽,12,cap,ボウ
+棒,12,rod,ボウ
+貿,12,trade,ボウ
+貌,14,appearance,ボウ
+暴,15,outburst,ボウ; （バク）; あば.く; あば.れる
+膨,16,swell,ボウ; ふく.らむ; ふく.れる
+謀,16,conspire,ボウ; （ム）; はか.る
+頰,16,cheek,ほお
+北,5,north,ホク; きた
+木,4,tree,ボク; モク; き; （こ）
+朴,6,crude,ボク
+牧,8,breed,ボク; まき
+睦,13,harmonious,ボク
+僕,14,me,ボク
+墨,14,black ink,ボク; すみ
+撲,15,slap,ボク
+没,7,drown,ボツ
+勃,9,rise,ボツ
+堀,11,ditch,ほり
+本,5,book,ホン; もと
+奔,8,bustle,ホン
+翻,18,flip,ホン; ひるがえ.る; ひるがえ.す
+凡,3,mediocre,ボン; （ハン）
+盆,9,basin,ボン
+麻,11,hemp,マ; あさ
+摩,15,chafe,マ
+磨,16,grind,マ; みが.く
+魔,21,witch,マ
+毎,6,every,マイ
+妹,8,younger sister,マイ; いもうと
+枚,8,sheet of...,マイ
+昧,9,foolish,マイ
+埋,10,bury,マイ; う.める; う.まる; う.もれる
+幕,13,curtain,マク; バク
+膜,14,membrane,マク
+枕,8,pillow,まくら
+又,2,or/again,また
+末,5,end,マツ; バツ; すえ
+抹,8,rub,マツ
+万,3,ten thousand,マン; バン
+満,12,full,マン; み.ちる; み.たす
+慢,14,ridicule,マン
+漫,14,cartoon,マン
+未,5,not yet,ミ
+味,8,flavor,ミ; あじ; あじ.わう
+魅,15,fascination,ミ
+岬,8,headland,みさき
+密,11,secrecy,ミツ
+蜜,14,honey,ミツ
+脈,10,vein,ミャク
+妙,7,exquisite,ミョウ
+民,5,people,ミン; たみ
+眠,10,sleep,ミン; ねむ.る; ねむ.い
+矛,5,halberd,ム; ほこ
+務,11,duty,ム; つと.める; つと.まる
+無,12,nothing,ム; ブ; な.い
+夢,13,dream,ム; ゆめ
+霧,19,fog,ム; きり
+娘,10,daughter,むすめ
+名,6,name,メイ; ミョウ; な
+命,8,fate,メイ; ミョウ; いのち
+明,8,bright,メイ; ミョウ; あ.かり; あか.るい; あか.るむ; あか.らむ; あき.らか; あ.ける; あ.く; あ.くる; あ.かす
+迷,9,astray,メイ; まよ.う
+冥,10,dark,メイ; ミョウ
+盟,13,alliance,メイ
+銘,14,inscription,メイ
+鳴,14,chirp,メイ; な.く; な.る; な.らす
+滅,13,destroy,メツ; ほろ.びる; ほろ.ぼす
+免,8,excuse,メン; まぬか.れる
+面,9,face,メン; おも; おもて; つら
+綿,14,cotton,メン; わた
+麺,16,noodles,メン
+茂,8,overgrown,モ; しげ.る
+模,14,imitation,モ; ボ
+毛,4,hair,モウ; け
+妄,6,delusion,モウ; ボウ
+盲,8,blind,モウ
+耗,10,decrease,モウ; （コウ）
+猛,11,fierce,モウ
+網,14,netting,モウ; あみ
+目,5,eye,モク; （ボク）; め; （ま）
+黙,15,silence,モク; だま.る
+門,8,gates,モン; かど
+紋,10,family crest,モン
+問,11,question,モン; と.う; と.い; （とん）
+冶,7,melting,ヤ
+夜,8,night,ヤ; よ; よる
+野,11,field,ヤ; の
+弥,8,all the more,や
+厄,4,unlucky,ヤク
+役,7,service,ヤク; エキ
+約,9,promise,ヤク
+訳,11,translate,ヤク; わけ
+薬,16,medicine,ヤク; くすり
+躍,21,leap,ヤク; おど.る
+闇,17,darkness,やみ
+由,5,reason,ユ; ユウ; （ユイ）; よし
+油,8,oil,ユ; あぶら
+喩,12,metaphor,ユ
+愉,12,pleasure,ユ
+諭,16,rebuke,ユ; さと.す
+輸,16,transport,ユ
+癒,18,healing,ユ; い.える; い.やす
+唯,11,solely,ユイ; （イ）
+友,4,friend,ユウ; とも
+有,6,have,ユウ; ウ; あ.る
+勇,9,courage,ユウ; いさ.む
+幽,9,seclude,ユウ
+悠,11,permanence,ユウ
+郵,11,mail,ユウ
+湧,12,boil,ユウ; わ.く
+猶,12,furthermore,ユウ
+裕,12,abundant,ユウ
+遊,12,play,ユウ; （ユ）; あそ.ぶ
+雄,12,male,ユウ; お; おす
+誘,14,entice,ユウ; さそ.う
+憂,15,melancholy,ユウ; うれ.える; うれ.い; う.い
+融,16,dissolve,ユウ
+優,17,superior,ユウ; やさ.しい; すぐ.れる
+与,3,give,ヨ; あた.える
+予,4,in advance,ヨ
+余,7,leave over,ヨ; あま.る; あま.す
+誉,13,reputation,ヨ; ほま.れ
+預,13,deposit,ヨ; あず.ける; あず.かる
+幼,5,infancy,ヨウ; おさな.い
+用,5,use,ヨウ; もち.いる
+羊,6,sheep,ヨウ; ひつじ
+妖,7,bewitching,ヨウ; あや.しい
+洋,9,ocean,ヨウ
+要,9,need,ヨウ; かなめ; い.る
+容,10,contain,ヨウ
+庸,11,commonplace,ヨウ
+揚,12,hoist,ヨウ; あ.げる; あ.がる
+揺,12,swing,ヨウ; ゆ.れる; ゆ.る; ゆ.らぐ; ゆ.るぐ; ゆ.する; ゆ.さぶる; ゆ.すぶる
+葉,12,leaf,ヨウ; は
+陽,12,sunshine,ヨウ
+溶,13,melt,ヨウ; と.ける; と.かす; と.く
+腰,13,loins,ヨウ; こし
+様,14,formal title,ヨウ; さま
+瘍,14,boil (medical),ヨウ
+踊,14,jump,ヨウ; おど.る; おど.り
+窯,15,kiln,ヨウ; かま
+養,15,foster,ヨウ; やしな.う
+擁,16,embrace,ヨウ
+謡,16,noh chanting,ヨウ; うたい; うた.う
+曜,18,day of the week,ヨウ
+抑,7,repress,ヨク; おさ.える
+沃,7,fertility,ヨク
+浴,10,bathe,ヨク; あ.びる; あ.びせる
+欲,11,longing,ヨク; ほっ.する; ほ.しい
+翌,11,the following,ヨク
+翼,17,wing,ヨク; つばさ
+拉,8,crush,ラ
+裸,13,naked,ラ; はだか
+羅,19,gauze,ラ
+来,7,come,ライ; く.る; きた.る; きた.す
+雷,13,thunder,ライ; かみなり
+頼,16,trust,ライ; たの.む; たの.もしい; たよ.る
+絡,12,entwine,ラク; から.む; から.まる; から.める
+落,12,fall,ラク; お.ちる; お.とす
+酪,13,dairy products,ラク
+辣,14,bitter,ラツ
+乱,7,riot,ラン; みだ.れる; みだ.す
+卵,7,egg,ラン; たまご
+覧,17,perusal,ラン
+濫,18,excessive,ラン
+藍,18,indigo,ラン; あい
+欄,20,column,ラン
+吏,6,officer,リ
+利,7,profit,リ; き.く
+里,7,village,リ; さと
+理,11,reason,リ
+痢,12,diarrhea,リ
+裏,13,back,リ; うら
+履,15,footgear,リ; は.く
+璃,15,glassy,リ
+離,19,detach,リ; はな.れる; はな.す
+陸,11,land,リク
+立,5,stand up,リツ; （リュウ）; た.つ; た.てる
+律,9,law,リツ; （リチ）
+慄,13,fear,リツ
+略,11,abbreviation,リャク
+柳,9,willow,リュウ; やなぎ
+流,10,stream,リュウ; （ル）; なが.れる; なが.す
+留,10,detain,リュウ; （ル）; と.める; と.まる
+竜,10,dragon,リュウ; たつ
+粒,11,grains,リュウ; つぶ
+隆,11,hump,リュウ
+硫,12,sulphur,リュウ
+侶,9,companion,リョ
+旅,10,trip,リョ; たび
+虜,13,captive,リョ
+慮,15,prudence,リョ
+了,2,finish,リョウ
+両,6,both,リョウ
+良,7,good,リョウ; よ.い
+料,10,fee,リョウ
+涼,11,refreshing,リョウ; すず.しい; すず.む
+猟,11,game.hunting,リョウ
+陵,11,mausoleum,リョウ; みささぎ
+量,12,quantity,リョウ; はか.る
+僚,14,colleague,リョウ
+領,14,territory,リョウ
+寮,15,dormitory,リョウ
+療,17,heal,リョウ
+瞭,17,clear,リョウ
+糧,18,provisions,リョウ; （ロウ）; かて
+力,2,power,リョク; リキ; ちから
+緑,14,green,リョク; （ロク）; みどり
+林,8,woods,リン; はやし
+厘,9,thousandth,リン
+倫,10,ethics,リン
+輪,15,wheel,リン; わ
+隣,16,neighboring,リン; とな.る; となり
+臨,18,look to,リン; のぞ.む
+瑠,14,lapis lazuli,ル
+涙,10,tears,ルイ; なみだ
+累,11,accumulate,ルイ
+塁,12,bases,ルイ
+類,18,sort,ルイ; たぐ.い
+令,5,orders,レイ
+礼,5,thanks,レイ; ライ
+冷,7,cool,レイ; つめ.たい; ひ.える; ひ.や; ひ.やす; ひ.やかす; さ.める; さ.ます
+励,7,encourage,レイ; はげ.む; はげ.ます
+戻,7,re,レイ; もど.す; もど.る
+例,8,example,レイ; たと.える
+鈴,13,small bell,レイ; リン; すず
+零,13,zero,レイ
+霊,15,spirits,レイ; リョウ; たま
+隷,16,slave,レイ
+齢,17,age,レイ
+麗,19,lovely,レイ; うるわ.しい
+暦,14,calendar,レキ; こよみ
+歴,14,curriculum,レキ
+列,6,row,レツ
+劣,6,inferiority,レツ; おと.る
+烈,10,ardent,レツ
+裂,12,split,レツ; さ.く; さ.ける
+恋,10,romance,レン; こ.う; こい; こい.しい
+連,10,take along,レン; つら.なる; つら.ねる; つ.れる
+廉,13,bargain,レン
+練,14,practice,レン; ね.る
+錬,16,tempering,レン
+呂,7,spine,ロ
+炉,8,hearth,ロ
+賂,13,bribe,ロ
+路,13,road,ロ; じ
+露,21,dew,ロ; （ロウ）; つゆ
+老,6,old man,ロウ; お.いる; ふ.ける
+労,7,labour,ロウ
+弄,7,tamper with,ロウ; もてあそ.ぶ
+郎,9,son,ロウ
+朗,10,melodious,ロウ; ほが.らか
+浪,10,wandering,ロウ
+廊,12,corridor,ロウ
+楼,13,watchtower,ロウ
+漏,14,leak,ロウ; も.る; も.れる; も.らす
+籠,22,basket,ロウ; かご; こ.もる
+六,4,six,ロク; む; む.つ; むっ.つ; （むい）
+録,16,record,ロク
+麓,19,foot of a/mountain,ロク; ふもと
+論,15,theory,ロン
+和,8,peace,ワ; （オ）; やわ.らぐ; やわ.らげる; なご.む; なご.やか
+話,13,talk,ワ; はな.す; はなし
+賄,13,bribe,ワイ; まかな.う
+脇,10,aside,わき
+惑,12,beguile,ワク; まど.う
+枠,8,frame,わく
+湾,12,gulf,ワン
+腕,12,arm,ワン; うで
