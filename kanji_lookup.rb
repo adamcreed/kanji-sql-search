@@ -21,11 +21,11 @@ end
 def initialize_table(conn)
   conn.exec("CREATE TABLE IF NOT EXISTS kanji (
     id          serial PRIMARY KEY,
-    kanji       varchar(1) NOT NULL,
+    character   varchar(1) NOT NULL,
     strokes     integer NOT NULL,
     meaning     varchar,
     readings    varchar NOT NULL,
-    CONSTRAINT kanji_unique UNIQUE (kanji)
+    CONSTRAINT kanji_unique UNIQUE (character)
   );")
 end
 
@@ -42,7 +42,7 @@ def add_row(row, conn)
   current_readings = row[3]
 
   begin
-    result = conn.exec("INSERT INTO kanji (kanji, strokes, meaning, readings)
+    result = conn.exec("INSERT INTO kanji (character, strokes, meaning, readings)
                       VALUES ('#{current_kanji}',
                               '#{current_strokes}',
                               $$#{current_meaning}$$,
@@ -69,7 +69,7 @@ def search_database(conn)
   search = get_search_criteria
 
   # There's probably a better way to do this, but this works for now
-  results = eval("#{search[:type]}_search(conn, #{search[:search]})")
+  results = eval("#{search[:type]}_search(conn, '#{search[:search]}')")
 
   print_results(results)
 end
@@ -77,22 +77,34 @@ end
 def get_search_criteria
   search = gets.chomp
 
-  until search = is_number?(search) or is_word?(search) \
-        or is_kana?(search) or is_kanji?(search)
+  until search_with_type = is_number?(search) or search_with_type = is_word?(search) \
+        or search_with_type = is_kana?(search) or search_with_type = is_kanji?(search)
     print 'Please enter a meaning, kanji, reading, or stroke count: '
     search = gets.chomp
   end
 
-  search
+  search_with_type
 end
 
 def stroke_search(conn, search)
   conn.exec("SELECT * FROM kanji WHERE strokes = #{search}")
 end
 
+def meaning_search(conn, search)
+  conn.exec("SELECT * FROM kanji WHERE meaning = '#{search}'")
+end
+
+def readings_search(conn, search)
+  conn.exec("SELECT * FROM kanji WHERE readings = '#{search}'")
+end
+
+def kanji_search(conn, search)
+  conn.exec("SELECT * FROM kanji WHERE character = '#{search}'")
+end
+
 def print_results(results)
   results.each do |result|
-    print "Kanji: #{result['kanji']}, Strokes: #{result['strokes']}, " \
+    print "Kanji: #{result['character']}, Strokes: #{result['strokes']}, "
     puts "Meaning: #{result['meaning']}, Readings: #{result['readings']}"
   end
 end
