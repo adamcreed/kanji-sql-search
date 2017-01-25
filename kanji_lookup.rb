@@ -243,6 +243,10 @@ def change_database(conn, selected_entry, selected_field, new_value)
 end
 
 def delete_entry(conn)
+  print 'Enter a kanji to delete: '
+  selected_entry = get_kanji(conn)
+
+  conn.exec("DELETE FROM kanji WHERE character = '#{selected_entry}'")
 end
 
 def is_number?(text)
