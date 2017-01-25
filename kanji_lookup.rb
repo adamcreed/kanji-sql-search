@@ -87,24 +87,28 @@ def get_search_criteria
 end
 
 def stroke_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE strokes = #{search}")
+  conn.exec("SELECT * FROM kanji WHERE strokes = #{search}
+            ORDER BY readings")
 end
 
 def meaning_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE meaning ~ '#{search}'")
+  conn.exec("SELECT * FROM kanji WHERE meaning ~ '#{search}'
+            ORDER BY strokes")
 end
 
 def readings_search(conn, search)
-# This one kinda works, a proper solution would require some regex voodoo
-# that I'm not getting tonight.
-conn.exec("SELECT * FROM kanji WHERE readings ~ '#{search}'")
+  # This one kinda works, a proper solution would require some regex voodoo
+  # that I'm not getting tonight.
+  conn.exec("SELECT * FROM kanji WHERE readings ~ '#{search}'
+            ORDER BY strokes")
 
-#   conn.exec("SELECT * FROM kanji WHERE EXISTS (SELECT readings FROM
-# kanji WHERE '#{search}' ~ '.*(.)*.*');")
+  #   conn.exec("SELECT * FROM kanji WHERE EXISTS (SELECT readings FROM
+  # kanji WHERE '#{search}' ~ '.*(.)*.*');")
 end
 
 def kanji_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE character = '#{search}'")
+  conn.exec("SELECT * FROM kanji WHERE character = '#{search}'
+            ORDER BY strokes")
 end
 
 def print_results(results)
@@ -115,12 +119,13 @@ def print_results(results)
 end
 
 def add_to_database(conn)
-  kanji = get_kanji(conn)
-  strokes = get_strokes
-  meaning = get_meaning
-  readings = get_readings
+  kanji = {}
+  kanji[:character] = get_kanji(conn)
+  kanji[:strokes] = get_strokes
+  kanji[:meaning] = get_meaning
+  kanji[:readings] = get_readings
 
-  add_line(conn, kanji, strokes, meaning, readings)
+  add_line(conn, kanji)
 end
 
 def get_kanji(conn)
@@ -171,10 +176,11 @@ def get_readings
   p readings_with_type[:search]
 end
 
-def add_line(conn, kanji, strokes, meaning, readings)
+def add_line(conn, kanji)
   begin
   conn.exec("INSERT INTO kanji (character, strokes, meaning, readings)
-    VALUES ('#{kanji}', #{strokes}, '#{meaning}', '#{readings}');")
+    VALUES ('#{kanji[:character]}', #{kanji[:strokes]},
+            '#{kanji[:meaning]}', '#{kanji[:readings]}');")
 
   rescue PG::UniqueViolation
     puts 'Error: kanji already exists in database, insertion failed.'
