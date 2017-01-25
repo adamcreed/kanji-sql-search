@@ -929,7 +929,7 @@
 俊,9,genius,シュン
 春,9,springtime,シュン; はる
 瞬,18,wink,シュン; またた.く
-旬,6,10.day/period (of the month),ジュン; （シュン）
+旬,6,10 day period (of the month),ジュン; （シュン）
 巡,6,patrol,ジュン; めぐ.る
 盾,9,shield,ジュン; たて
 准,10,quasi,ジュン
