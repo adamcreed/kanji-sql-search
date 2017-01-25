@@ -91,11 +91,16 @@ def stroke_search(conn, search)
 end
 
 def meaning_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE meaning = '#{search}'")
+  conn.exec("SELECT * FROM kanji WHERE meaning ~ '#{search}'")
 end
 
 def readings_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE readings = '#{search}'")
+# This one kinda works, a proper solution would require some regex voodoo
+# that I'm not getting tonight.
+conn.exec("SELECT * FROM kanji WHERE readings ~ '#{search}'")
+
+#   conn.exec("SELECT * FROM kanji WHERE EXISTS (SELECT readings FROM
+# kanji WHERE '#{search}' ~ '.*(.)*.*');")
 end
 
 def kanji_search(conn, search)
@@ -106,6 +111,73 @@ def print_results(results)
   results.each do |result|
     print "Kanji: #{result['character']}, Strokes: #{result['strokes']}, "
     puts "Meaning: #{result['meaning']}, Readings: #{result['readings']}"
+  end
+end
+
+def add_to_database(conn)
+  kanji = get_kanji(conn)
+  strokes = get_strokes
+  meaning = get_meaning
+  readings = get_readings
+
+  add_line(conn, kanji, strokes, meaning, readings)
+end
+
+def get_kanji(conn)
+  print 'Enter the kanji to be added: '
+  kanji = gets.chomp
+
+  until kanji_with_type = is_kanji?(kanji)
+    print 'Please enter a kanji: '
+    kanji = gets.chomp
+  end
+
+  p kanji_with_type[:search]
+end
+
+def get_strokes
+  print 'Enter the number of strokes: '
+  strokes = gets.chomp
+
+  until strokes_with_type = is_number?(strokes)
+    print 'Please enter a number: '
+    strokes = gets.chomp
+  end
+
+  p strokes_with_type[:search]
+end
+
+def get_meaning
+  print 'Enter the meaning: '
+  meaning = gets.chomp
+
+  until meaning_with_type = is_word?(meaning)
+    print 'Please enter a word: '
+    meaning = gets.chomp
+  end
+
+  p meaning_with_type[:search]
+end
+
+def get_readings
+  print 'Enter the reading: '
+  readings = gets.chomp
+
+  until readings_with_type = is_kana?(readings)
+    print 'Please enter hiragana or katakana: '
+    readings = gets.chomp
+  end
+
+  p readings_with_type[:search]
+end
+
+def add_line(conn, kanji, strokes, meaning, readings)
+  begin
+  conn.exec("INSERT INTO kanji (character, strokes, meaning, readings)
+    VALUES ('#{kanji}', #{strokes}, '#{meaning}', '#{readings}');")
+
+  rescue PG::UniqueViolation
+    puts 'Error: kanji already exists in database, insertion failed.'
   end
 end
 
@@ -127,9 +199,6 @@ end
 
 def is_kanji?(text)
   text.match(/^\p{Han}$/) ? {search: text, type: 'kanji'} : false
-end
-
-def add_to_database(conn)
 end
 
 def get_choice(range)
