@@ -2,13 +2,14 @@ require 'pg'
 require_relative 'kanji_database'
 
 def main
-  conn = connect_to_database
-  initialize_table(conn)
-  load_from_file('data/KanjiReadings.txt', conn)
+  conn = KanjiDatabase.connect_to_database
+  KanjiDatabase.initialize_table(conn)
+  KanjiDatabase.load_from_file('data/KanjiReadings.txt', conn)
+  conn.close
 
   print_prompt
   choice = get_choice(1..4)
-  access_database(choice, conn)
+  access_database(choice)
 end
 
 def print_prompt
@@ -16,25 +17,25 @@ def print_prompt
         'edit entry (3), or delete (4)): '
 end
 
-def access_database(choice, conn)
+def access_database(choice)
   case choice
   when 1
-    search_database(conn)
+    search_database
   when 2
-    add_to_database(conn)
+    add_to_database
   when 3
-    edit_entry(conn)
+    edit_entry
   when 4
-    delete_entry(conn)
+    delete_entry
   end
 end
 
-def search_database(conn)
+def search_database
   print 'Enter a search criteria: '
   search = get_search_criteria
 
   # There's probably a better way to do this, but this works for now
-  results = eval("#{search[:type]}_search(conn, '#{search[:search]}')")
+  results = eval("#{search[:type]}_search('#{search[:search]}')")
 
   print_results(results)
 end
@@ -51,29 +52,49 @@ def get_search_criteria
   search_with_type
 end
 
-def stroke_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE strokes = #{search}
-            ORDER BY readings")
+def stroke_search(search)
+  conn = KanjiDatabase.connect_to_database
+
+  results = conn.exec_params("SELECT * FROM kanji WHERE strokes = $1
+                      ORDER BY readings", [search])
+
+  conn.close
+  results
 end
 
-def meaning_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE meaning ~ '#{search}'
-            ORDER BY strokes")
+def meaning_search(search)
+  conn = KanjiDatabase.connect_to_database
+
+  results = conn.exec_params("SELECT * FROM kanji WHERE meaning ~ $1
+                      ORDER BY strokes", [search])
+
+  conn.close
+  results
 end
 
-def readings_search(conn, search)
+def readings_search(search)
+  conn = KanjiDatabase.connect_to_database
+
   # This one kinda works, a proper solution would require some regex voodoo
   # that I'm not getting tonight.
-  conn.exec("SELECT * FROM kanji WHERE readings ~ '#{search}'
-            ORDER BY strokes")
+  results = conn.exec_params("SELECT * FROM kanji WHERE readings ~ $1
+                      ORDER BY strokes", [search])
 
   #   conn.exec("SELECT * FROM kanji WHERE EXISTS (SELECT readings FROM
   # kanji WHERE '#{search}' ~ '.*(.)*.*');")
+
+  conn.close
+  results
 end
 
-def kanji_search(conn, search)
-  conn.exec("SELECT * FROM kanji WHERE character = '#{search}'
-            ORDER BY strokes")
+def kanji_search(search)
+  conn = KanjiDatabase.connect_to_database
+
+  results = conn.exec_params("SELECT * FROM kanji WHERE character = $1
+            ORDER BY strokes", [search])
+
+  conn.close
+  results
 end
 
 def print_results(results)
@@ -83,26 +104,26 @@ def print_results(results)
   end
 end
 
-def add_to_database(conn)
+def add_to_database
   kanji = {}
 
-  kanji[:character] = prompt_for_kanji(conn)
+  kanji[:character] = prompt_for_kanji
   kanji[:strokes] = prompt_for_strokes
   kanji[:meaning] = prompt_for_meaning
   kanji[:readings] = prompt_for_readings
 
-  add_line(conn, kanji)
+  add_line(kanji)
 end
 
-def prompt_for_kanji(conn)
+def prompt_for_kanji
   print 'Enter the kanji to be added: '
 
-  kanji_with_type = get_kanji(conn, kanji)
+  kanji_with_type = get_kanji
 
   kanji_with_type
 end
 
-def get_kanji(conn)
+def get_kanji
   kanji = gets.chomp
 
   until kanji_with_type = is_kanji?(kanji)
@@ -170,22 +191,27 @@ def get_readings
   readings_with_type[:search]
 end
 
-def add_line(conn, kanji)
+def add_line(kanji)
+  conn = KanjiDatabase.connect_to_database
+
   begin
-  conn.exec("INSERT INTO kanji (character, strokes, meaning, readings)
-    VALUES ('#{kanji[:character]}', #{kanji[:strokes]},
-            '#{kanji[:meaning]}', '#{kanji[:readings]}');")
+  conn.exec_params("INSERT INTO kanji (character, strokes, meaning, readings)
+                    VALUES ($1, $2, $3, $4);",
+                    [kanji[:character], kanji[:strokes],
+                    kanji[:meaning], kanji[:readings]])
 
   rescue PG::UniqueViolation
     puts 'Error: kanji already exists in database, insertion failed.'
   end
+
+  conn.close
 end
 
-def edit_entry(conn)
-  search_database(conn)
+def edit_entry
+  search_database
 
   print 'Enter the kanji you want to edit: '
-  selected_entry = get_kanji(conn)
+  selected_entry = get_kanji
 
   print 'Enter the field you want to change: '
   selected_field = get_word
@@ -193,19 +219,27 @@ def edit_entry(conn)
   print 'Enter the new value: '
   new_value = gets.chomp
 
-  change_database(conn, selected_entry, selected_field, new_value)
+  change_database(selected_entry, selected_field, new_value)
 end
 
-def change_database(conn, selected_entry, selected_field, new_value)
-  conn.exec("UPDATE kanji SET #{selected_field} = '#{new_value}'
-            WHERE character = '#{selected_entry}'")
+def change_database(selected_entry, selected_field, new_value)
+  conn = KanjiDatabase.connect_to_database
+  selected_field = conn.quote_ident(selected_field)
+
+  conn.exec_params("UPDATE kanji SET #{selected_field} = $1
+                    WHERE character = $2;",
+                    [new_value, selected_entry])
+
+  conn.close
 end
 
-def delete_entry(conn)
+def delete_entry
   print 'Enter a kanji to delete: '
-  selected_entry = get_kanji(conn)
+  selected_entry = get_kanji
 
-  conn.exec("DELETE FROM kanji WHERE character = '#{selected_entry}'")
+  conn = KanjiDatabase.connect_to_database
+  conn.exec_params("DELETE FROM kanji WHERE character = $1;", [selected_entry])
+  conn.close
 end
 
 def is_number?(text)
