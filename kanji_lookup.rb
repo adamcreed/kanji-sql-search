@@ -7,7 +7,7 @@ def main
   load_from_file('data/KanjiReadings.txt', conn)
 
   print_prompt
-  choice = get_choice(1..2)
+  choice = get_choice(1..4)
   access_database(choice, conn)
 end
 
@@ -53,19 +53,25 @@ def add_row(row, conn)
 end
 
 def print_prompt
-  print 'Please choose kanji lookup (1) or add to database (2): '
+  print 'Please choose kanji lookup (1), add to database (2), ' \
+        'edit entry (3), or delete (4)): '
 end
 
 def access_database(choice, conn)
-  if choice == 1
-    print 'Enter your search criteria: '
+  case choice
+  when 1
     search_database(conn)
-  else
+  when 2
     add_to_database(conn)
+  when 3
+    edit_entry(conn)
+  when 4
+    delete_entry(conn)
   end
 end
 
 def search_database(conn)
+  print 'Enter a search criteria: '
   search = get_search_criteria
 
   # There's probably a better way to do this, but this works for now
@@ -120,16 +126,24 @@ end
 
 def add_to_database(conn)
   kanji = {}
-  kanji[:character] = get_kanji(conn)
-  kanji[:strokes] = get_strokes
-  kanji[:meaning] = get_meaning
-  kanji[:readings] = get_readings
+
+  kanji[:character] = prompt_for_kanji(conn)
+  kanji[:strokes] = prompt_for_strokes
+  kanji[:meaning] = prompt_for_meaning
+  kanji[:readings] = prompt_for_readings
 
   add_line(conn, kanji)
 end
 
-def get_kanji(conn)
+def prompt_for_kanji(conn)
   print 'Enter the kanji to be added: '
+
+  kanji_with_type = get_kanji(conn, kanji)
+
+  kanji_with_type
+end
+
+def get_kanji(conn)
   kanji = gets.chomp
 
   until kanji_with_type = is_kanji?(kanji)
@@ -137,11 +151,18 @@ def get_kanji(conn)
     kanji = gets.chomp
   end
 
-  p kanji_with_type[:search]
+  kanji_with_type[:search]
+end
+
+def prompt_for_strokes
+  print 'Enter the number of strokes: '
+
+  strokes_with_type = get_strokes
+
+  strokes_with_type
 end
 
 def get_strokes
-  print 'Enter the number of strokes: '
   strokes = gets.chomp
 
   until strokes_with_type = is_number?(strokes)
@@ -149,23 +170,37 @@ def get_strokes
     strokes = gets.chomp
   end
 
-  p strokes_with_type[:search]
+  strokes_with_type[:search]
 end
 
-def get_meaning
+def prompt_for_meaning
   print 'Enter the meaning: '
-  meaning = gets.chomp
 
-  until meaning_with_type = is_word?(meaning)
+  meaning_with_type = get_word
+
+  meaning_with_type
+end
+
+def get_word
+  word = gets.chomp
+
+  until word_with_type = is_word?(word)
     print 'Please enter a word: '
-    meaning = gets.chomp
+    word = gets.chomp
   end
 
-  p meaning_with_type[:search]
+  word_with_type[:search]
+end
+
+def prompt_for_readings
+  print 'Enter the reading: '
+
+  readings_with_type = get_readings
+
+  readings_with_type
 end
 
 def get_readings
-  print 'Enter the reading: '
   readings = gets.chomp
 
   until readings_with_type = is_kana?(readings)
@@ -173,7 +208,7 @@ def get_readings
     readings = gets.chomp
   end
 
-  p readings_with_type[:search]
+  readings_with_type[:search]
 end
 
 def add_line(conn, kanji)
@@ -185,6 +220,29 @@ def add_line(conn, kanji)
   rescue PG::UniqueViolation
     puts 'Error: kanji already exists in database, insertion failed.'
   end
+end
+
+def edit_entry(conn)
+  search_database(conn)
+
+  print 'Enter the kanji you want to edit: '
+  selected_entry = get_kanji(conn)
+
+  print 'Enter the field you want to change: '
+  selected_field = get_word
+
+  print 'Enter the new value: '
+  new_value = gets.chomp
+
+  change_database(conn, selected_entry, selected_field, new_value)
+end
+
+def change_database(conn, selected_entry, selected_field, new_value)
+  conn.exec("UPDATE kanji SET #{selected_field} = '#{new_value}'
+            WHERE character = '#{selected_entry}'")
+end
+
+def delete_entry(conn)
 end
 
 def is_number?(text)
