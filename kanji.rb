@@ -10,11 +10,8 @@ class Kanji
   def save(conn)
    if @id.nil?
      result = conn.exec_params('INSERT INTO kanji (character, strokes,
-                               meaning, readings) VALUES ($1, $2, $3, $4)
-                               RETURNING id;', [@character, @strokes,
-                               @meaning, @readings])
-
-     @id = result[0]['id'].to_i
+                               meaning, readings) VALUES ($1, $2, $3, $4);',
+                               [@character, @strokes, @meaning, @readings])
 
    else
      result = conn.exec_params('UPDATE kanji SET character = $1, strokes = $2,
