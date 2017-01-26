@@ -1,6 +1,6 @@
 class Kanji
   def initialize(options)
-    @id = options.key?('id') ? options['id'] : nil
+    @id = options['id']
     @character = options['character']
     @strokes = options['strokes'].to_i
     @meaning = options['meaning']

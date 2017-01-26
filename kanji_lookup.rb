@@ -1,73 +1,16 @@
 require 'pg'
 require_relative 'kanji_database'
 require_relative 'validator'
+require_relative 'menu'
+require_relative 'app'
 
 def main
   KanjiDatabase.initialize_table
-  display_instructions
-  choice = make_choice(1..3)
-  access_database(choice)
+  Menu.display_instructions
+  choice = Menu.make_choice(1..3)
+  App.access_database(choice)
 end
 
-def display_instructions
-  print 'Please choose kanji lookup (1), edit\add to database (2) ' \
-        ', or delete (3)): '
-end
-
-def access_database(choice)
-  case choice
-  when 1
-    search_database
-  when 2
-    modify_database
-  when 3
-    delete_entry
-  end
-end
-
-def search_database
-  print 'Enter a search criteria: '
-  search_text = get_search_criteria
-  KanjiDatabase.search(search_text)
-end
-
-def get_search_criteria
-  search = gets.chomp
-
-  until search_with_type = KanjiDatabase.is_valid_search?(search)
-    print 'Please enter a meaning, kanji, reading, or stroke count: '
-    search = gets.chomp
-  end
-
-  search_with_type
-end
-
-def print_results(results)
-  results.each do |result|
-    print "Kanji: #{result['character']}, Strokes: #{result['strokes']}, "
-    puts "Meaning: #{result['meaning']}, Readings: #{result['readings']}"
-  end
-end
-
-def modify_database
-  options = get_modified_values
-  conn = KanjiDatabase.connect_to_database
-  options['id'] = check_id(options, conn)
-  k = Kanji.new(options)
-  k.save(conn)
-  conn.close
-end
-
-# I'm not super into this name, but don't got anything better at the moment.
-def get_modified_values
-  options = {}
-  options['character'] = prompt_for_kanji
-  options['strokes'] = prompt_for_strokes
-  options['meaning'] = prompt_for_meaning
-  options['readings'] = prompt_for_readings
-
-  options
-end
 
 def check_id(options, conn)
   result = KanjiDatabase.check_for_existing_entry(options['character'], conn)
