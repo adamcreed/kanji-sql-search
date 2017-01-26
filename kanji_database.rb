@@ -22,7 +22,7 @@ class KanjiDatabase
   end
 
   def self.create_table(conn)
-    conn.exec("CREATE TABLE IF NOT EXISTS kanji (
+    conn.exec("CREATE TABLE IF NOT EXISTS kanjis (
       id          serial PRIMARY KEY,
       character   varchar(1) NOT NULL,
       strokes     integer NOT NULL,
@@ -33,7 +33,7 @@ class KanjiDatabase
   end
 
   def self.table_is_empty?(conn)
-    row_count = conn.exec('SELECT COUNT(*) FROM kanji;')
+    row_count = conn.exec('SELECT COUNT(*) FROM kanjis;')
     row_count[0]['count'].to_i == 0
   end
 
@@ -54,7 +54,7 @@ class KanjiDatabase
   end
 
   def self.check_for_existing_entry(character, conn)
-    conn.exec_params('SELECT * FROM kanji WHERE character = $1', [character])
+    conn.exec_params('SELECT * FROM kanjis WHERE character = $1', [character])
   end
 
   def self.entry_does_not_exist?(result)
@@ -86,7 +86,7 @@ class KanjiDatabase
   def self.stroke_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE strokes = $1
+    results = conn.exec_params("SELECT * FROM kanjis WHERE strokes = $1
                         ORDER BY readings", [search])
 
     conn.close
@@ -96,7 +96,7 @@ class KanjiDatabase
   def self.meaning_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE meaning ~ $1
+    results = conn.exec_params("SELECT * FROM kanjis WHERE meaning ~ $1
                         ORDER BY strokes", [search])
 
     conn.close
@@ -106,7 +106,7 @@ class KanjiDatabase
   def self.readings_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE
+    results = conn.exec_params("SELECT * FROM kanjis WHERE
                                REPLACE(readings, '.', '')
                                LIKE CONCAT(CONCAT('%', $1::varchar), '%')",
                                [search])
@@ -118,7 +118,7 @@ class KanjiDatabase
   def self.kanji_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE character = $1
+    results = conn.exec_params("SELECT * FROM kanjis WHERE character = $1
               ORDER BY strokes", [search])
 
     conn.close
@@ -127,7 +127,7 @@ class KanjiDatabase
 
   def self.delete_entry(selected_entry)
     conn = connect_to_database
-    conn.exec_params('DELETE FROM kanji WHERE character = $1;', [selected_entry])
+    conn.exec_params('DELETE FROM kanjis WHERE character = $1;', [selected_entry])
     conn.close
   end
 end
