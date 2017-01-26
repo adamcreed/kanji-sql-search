@@ -50,21 +50,32 @@ def print_results(results)
 end
 
 def modify_database
-  options = {}
+  options = get_modified_values
+  conn = KanjiDatabase.connect_to_database
+  options['id'] = check_id(options, conn)
+  k = Kanji.new(options)
+  k.save(conn)
+  conn.close
+end
 
+# I'm not super into this name, but don't got anything better at the moment.
+def get_modified_values
+  options = {}
   options['character'] = prompt_for_kanji
   options['strokes'] = prompt_for_strokes
   options['meaning'] = prompt_for_meaning
   options['readings'] = prompt_for_readings
 
-  conn = KanjiDatabase.connect_to_database
+  options
+end
+
+def check_id(options, conn)
   result = KanjiDatabase.check_for_existing_entry(options['character'], conn)
-  unless KanjiDatabase.entry_does_not_exist?(result)
-    options['id'] = result[0]['id']
+  if KanjiDatabase.entry_does_not_exist?(result)
+    nil
+  else
+    result[0]['id']
   end
-  k = Kanji.new(options)
-  k.save(conn)
-  conn.close
 end
 
 def prompt_for_kanji

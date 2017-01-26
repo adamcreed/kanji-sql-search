@@ -34,7 +34,7 @@ class KanjiDatabase
 
   def self.table_is_empty?(conn)
     row_count = conn.exec('SELECT COUNT(*) FROM kanji;')
-    p row_count[0]['count'].to_i == 0
+    row_count[0]['count'].to_i == 0
   end
 
   def self.seed_database(file_path, conn)
