@@ -32,6 +32,6 @@ class Display
   end
 
   def self.delete_prompt
-    print 'Enter the kanji to delete'
+    print 'Enter the kanji to delete: '
   end
 end

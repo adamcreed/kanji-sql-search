@@ -1,3 +1,6 @@
+require 'csv'
+require_relative 'kanji_database'
+
 class CreateDatabase
   def self.initialize_table
     conn = KanjiDatabase.connect_to_database
@@ -28,14 +31,10 @@ class CreateDatabase
 
   def self.seed_database(file_path, conn)
     CSV.foreach(file_path) do |row|
-      add_entry(row, conn)
-    end
-  end
+      options = {'character' => row[0], 'strokes' => row[1].to_i,
+                 'meaning' => row[2], 'readings' => row[3]}
 
-  def self.add_entry(row, conn)
-    options = {'character' => row[0], 'strokes' => row[1].to_i,
-               'meaning' => row[2], 'readings' => row[3]}
-    k = Kanji.new(options)
-    k.save(conn)
+      KanjiDatabase.add_entry(options, conn)
+    end
   end
 end

@@ -1,3 +1,8 @@
+require_relative 'display'
+require_relative 'input'
+require_relative 'validator'
+
+
 class App
   def self.run
     Display.instructions
@@ -29,8 +34,7 @@ class App
     options = Input.modified_values
     conn = KanjiDatabase.connect_to_database
     options['id'] = KanjiDatabase.check_id(options, conn)
-    k = Kanji.new(options)
-    k.save(conn)
+    KanjiDatabase.add_entry(options, conn)
     conn.close
   end
 

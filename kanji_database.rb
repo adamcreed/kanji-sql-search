@@ -1,5 +1,4 @@
 require 'pg'
-require 'csv'
 require_relative 'kanji'
 
 class KanjiDatabase
@@ -11,25 +10,26 @@ class KanjiDatabase
   end
 
   def self.search(search_text, search_type)
-    # There's probably a better way to do this, but this works for now
-    eval("#{search_type}_search('#{search_text}')")
+    send("#{search_type}_search", search_text.to_s)
   end
 
   def self.kanji_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE character = $1
-              ORDER BY strokes", [search])
+    results = conn.exec_params(
+      "SELECT * FROM kanji WHERE character = $1
+       ORDER BY strokes", [search])
 
     conn.close
     results
   end
 
-  def self.stroke_search(search)
+  def self.strokes_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE strokes = $1
-                        ORDER BY readings", [search])
+    results = conn.exec_params(
+      "SELECT * FROM kanji WHERE strokes = $1
+       ORDER BY readings", [search])
 
     conn.close
     results
@@ -38,8 +38,9 @@ class KanjiDatabase
   def self.meaning_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE meaning ~ $1
-                        ORDER BY strokes", [search])
+    results = conn.exec_params(
+      "SELECT * FROM kanji WHERE meaning ~ $1
+       ORDER BY strokes", [search])
 
     conn.close
     results
@@ -48,10 +49,12 @@ class KanjiDatabase
   def self.readings_search(search)
     conn = connect_to_database
 
-    results = conn.exec_params("SELECT * FROM kanji WHERE
-                               REPLACE(readings, '.', '')
-                               LIKE CONCAT(CONCAT('%', $1::varchar), '%')",
-                               [search])
+    results = conn.exec_params(
+      "SELECT * FROM kanji WHERE
+       REPLACE(readings, '.', '')
+       LIKE CONCAT(CONCAT('%', $1::varchar), '%')
+       ORDER BY strokes",
+       [search])
 
     conn.close
     results
@@ -72,6 +75,11 @@ class KanjiDatabase
 
   def self.entry_does_not_exist?(result)
     result.num_tuples.zero?
+  end
+
+  def self.add_entry(options, conn)
+    k = Kanji.new(options)
+    k.save(conn)
   end
 
   def self.delete_entry(character)
