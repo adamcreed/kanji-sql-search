@@ -1,4 +1,9 @@
 class App
+  def self.run
+    Display.instructions
+    access_database(Input.choice(1..4))
+  end
+
   def self.access_database(choice)
     case choice
     when 1
@@ -7,50 +12,31 @@ class App
       modify_database
     when 3
       delete_entry
+    when 4
+      exit
     end
   end
 
   def self.search_database
-    Menu.search_prompt
-    search_text = get_search_criteria
-    KanjiDatabase.search(search_text)
-  end
-
-  def self.get_search_criteria
-    search = gets.chomp
-
-    until search_with_type = KanjiDatabase.is_valid_search?(search)
-      print 'Please enter a meaning, kanji, reading, or stroke count: '
-      search = gets.chomp
-    end
-
-    search_with_type
-  end
-
-  def self.print_results(results)
-    results.each do |result|
-      print "Kanji: #{result['character']}, Strokes: #{result['strokes']}, "
-      puts "Meaning: #{result['meaning']}, Readings: #{result['readings']}"
-    end
+    Display.search_prompt
+    search_text = Input.search_term
+    search_type = Validator.get_search_type(search_text)
+    results = KanjiDatabase.search(search_text, search_type)
+    Display.results(results)
   end
 
   def self.modify_database
-    options = get_modified_values
+    options = Input.modified_values
     conn = KanjiDatabase.connect_to_database
-    options['id'] = check_id(options, conn)
+    options['id'] = KanjiDatabase.check_id(options, conn)
     k = Kanji.new(options)
     k.save(conn)
     conn.close
   end
 
-  # I'm not super into this name, but don't got anything better at the moment.
-  def self.get_modified_values
-    options = {}
-    options['character'] = prompt_for_kanji
-    options['strokes'] = prompt_for_strokes
-    options['meaning'] = prompt_for_meaning
-    options['readings'] = prompt_for_readings
-
-    options
+  def self.delete_entry
+    Display.delete_prompt
+    character = Input.kanji
+    KanjiDatabase.delete_entry(character)
   end
 end
